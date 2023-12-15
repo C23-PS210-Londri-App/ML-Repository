@@ -20,6 +20,9 @@ new_data_point = np.array([-7.87639, 110.35889, 1, 0, 1, 1, 1]) #This is example
 
 #We transform the longitude and latitude with Scaler
 new_data_point[:2] = loaded_scaler.transform(new_data_point[:2].reshape(1,-1))
+
+#Reshape it before predicting
+new_data_point = new_data_point.reshape(1, -1)
 ```
 ### Making Prediction
 ```python
