@@ -7,10 +7,10 @@ Repository for ML-Learning Path
 import tensorflow as tf
 from keras import load_model
 
-model_path = "your_model_path"
+model_path = "your_model_path/model_name.h5"
 model = load_model(model_path)
 
-with open('name_of_the_scaler.pkl', 'rb') as file:
+with open('scaler_path/name_of_the_scaler.pkl', 'rb') as file:
     loaded_scaler = pickle.load(file)
 ```
 
