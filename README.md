@@ -16,7 +16,8 @@ with open('scaler_path/name_of_the_scaler.pkl', 'rb') as file:
 
 ### Prepare the New Data Point
 ```python
-new_data_point = np.array([-7.87639, 110.35889, 1, 0, 1, 1, 1]) #This is example of the data point, consisting of [latitude,longitude,kategori1,kategori2,kategori3,kategori4,kategori5]
+new_data_point = np.array([-7.87639, 110.35889, 1, 0, 1, 1, 1])
+#This is example of the data point, consisting of [latitude,longitude,kategori1,kategori2,kategori3,kategori4,kategori5]
 
 #We transform the longitude and latitude with Scaler
 new_data_point[:2] = loaded_scaler.transform(new_data_point[:2].reshape(1,-1))
