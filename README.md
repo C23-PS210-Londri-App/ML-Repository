@@ -1,7 +1,7 @@
 # ML-Repository
 Repository for ML-Learning Path
 
-## How To Use
+## How To Use The Model
 ### First Load the Model and Scaler(Pickle)
 ```python
 import tensorflow as tf
