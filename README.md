@@ -31,6 +31,7 @@ class_probabilities = predictions[0]
 #Sorting it
 sorted_indices = np.argsort(class_probabilities1)[::-1]
 next_most_likely_indices = sorted_indices1[1:16] #Here it return 15 places id, you can change it accordingly
-print(next_most_likely_indices) #This code would return a list like below
+
+#Inside the next_most_likely_indices
 [607 608 644 623 645 613 664 636 621 651 649 618 652 655 640] #You can search this id in the database to get data of laundry places
 ```
