@@ -5,6 +5,7 @@ Repository for ML-Learning Path
 ### First Load the Model and Scaler(Pickle)
 ```python
 import tensorflow as tf
+import pickle
 from keras import load_model
 
 model_path = "your_model_path/model_name.h5"
