@@ -1,0 +1,741 @@
+nama,no_telp,alamat,latitude,longitude,kategori_1,kategori_2,kategori_3,kategori_4,kategori_5,id
+Lavanderia,081234567891,"Jl. Boulevard No.28 f, Masale, Panakkukang, Makassar City, South Sulawesi 90231",0.19901339719707,0.9935514126702385,0,1,0,1,1,1
+LaundrySaja,081234567891,"Jl. Kakatua No.30, Mariso, Makassar City, South Sulawesi 90122",0.19850542858652614,0.9922529379046887,0,1,1,1,1,2
+Zap Laundry,081234567891,"Di Dalam SPBU Pintu 1 Unhas, Jl. Perintis Kemerdekaan KM.10 No.55, Tamalanrea Jaya, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245",0.2002508355151673,0.9958827336530769,1,0,1,1,1,3
+QnC Laundry Toddopuli,081234567891,"Jl. Toddopuli Raya No.8, Kassi-Kassi, Rappocini, Makassar City, South Sulawesi 90222",0.1979977314234051,0.9939726788469763,0,0,0,1,0,4
+Laundromad Makassar,081234567891,"Jl. Bumi Tamalanrea Permai No.1A, Tamalanrea, Makassar City, South Sulawesi 90245",0.20115430302073928,0.9964010169724187,1,1,1,1,1,5
+Bintang Laundry,081234567891,"Jalan Sunu Kompleks Unhas Blok PX No.23A, Lembo, Kec. Tallo, Kota Makassar, Sulawesi Selatan 90213",0.20179763341278895,0.9929127880279891,0,1,1,1,0,6
+Mawangi Laundry,081234567891,"Jl. Racing Centre Jl. Btn Tonasa No.9, Karampuang, Kec. Panakkukang, Kota Makassar, Sulawesi Selatan 90231",0.20025011165537315,0.9940733210155583,1,0,0,0,0,7
+Laundry Bar,081234567891,"Jl. Masjid Raya No.168 C, Malimongan Baru, Kec. Bontoala, Kota Makassar, Sulawesi Selatan 90152",0.20103785207635555,0.9929213736158298,0,1,0,0,1,8
+Upperbest Laundry Care,081234567891,"Jl. Lanto Dg. Pasewang No.18, South Maricaya, Makassar, Makassar City, South Sulawesi 90142",0.19931099405493946,0.9925697937937361,1,1,1,1,1,9
+Madani Laundry karpet sofa springbed,081234567891,"Sudiang, Kec. Biringkanaya, Kota Makassar, Sulawesi Selatan 90242",0.20575642262698846,0.9977280149686862,0,0,0,1,0,10
+Mika Laundry,081234567891,"Jl. Beruang No.29, Bonto Biraeng, Mamajang, Makassar City, South Sulawesi 90132",0.19882474123821997,0.9925791425449413,1,1,1,0,1,11
+Momyba Laundry,081234567891,"Jl. Pongtiku No.131A, Kalukuang, Kec. Tallo, Kota Makassar, Sulawesi Selatan 90152",0.20141787846828363,0.9930751510336071,0,0,0,1,1,12
+Edwash Premiun Laundry Service,081234567891,"Jl. Lamaddukelleng No.52a, Losari, Ujung Pandang, Makassar City, South Sulawesi 90113",0.19988537680159651,0.9921433762642939,1,1,0,0,1,13
+Wazzme Laundry Makassar,081234567891,"Ruko Rio Grande, Green River View No.20, Barombong, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90225",0.19488495334361688,0.9913215924147671,0,1,1,1,1,14
+Fixs Laundry Makassar,081234567891,"Jl. Bonto Bila 9 No.8, Batua, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90233",0.19918459003838623,0.9946085370220326,0,1,1,1,0,15
+LAUNDRY KILOAN ANTAR JEMPUT,081234567891,"Jalan BUDI DAYA 3, Komp. Unhas Jl. Antang Raya No.33, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90235",0.19786273157179635,0.9954888459620097,0,1,1,1,1,16
+OLA Laundry,081234567891,"Jl. Andi Djemma No.94i, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",0.19814467496161725,0.9928661396673855,1,1,1,1,1,17
+Smile Laundry,081234567891,"Komp.Pelita Marga Mas, Jl. Gunung Latimojong C No.20, Gaddong, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90157",0.20099957798973994,0.9925105532376319,1,0,1,1,1,18
+Laundry Antara,081234567891,"Jalan Perintis Kemerdekaan III BTN Antara Block A15 No. 1, Tamalanrea, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245",0.2006827988473256,0.9953837679063762,1,1,1,1,1,19
+Sarah Laundry,081234567891,"Jl. Traktor No.9, Mangasa, Tamalate, Makassar City, South Sulawesi 90221",0.19654431143922868,0.9931759362953203,0,1,1,0,1,20
+Happy Laundry,081234567891,"Jl. Tupai No.56, Bonto Biraeng, Mamajang, Makassar City, South Sulawesi 90132",0.1986623251969079,0.9925998433511802,0,1,0,0,0,21
+Bossman Laundry,081234567891,"RFVM+7W7 Bossman Laundry, Antang, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90234",0.1988916982691788,0.995676202567787,1,0,0,1,0,22
+Rizray Laundry & Dry Cleaning,081234567891,"Ruko Somba Opu, Blk. A No.8, Tanjung Merdeka, Tamalate, Makassar City, South Sulawesi 90224",0.19735874419012023,0.9911915207589734,0,0,0,1,0,23
+Clean & Clinik Laundry,081234567891,"Jl. Sultan Hasanuddin No.163 A, Mangkura, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90115",0.20001223323052103,0.9922597586772506,1,1,0,1,1,24
+Laundry terdekat,081234567891,"RFVH+MHJ Laundry terdekat, Jln pannara no hp, Antang, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90000",0.1989867048671608,0.9953949291705699,1,0,0,1,1,25
+Karunrung Laundry,081234567891,"JL Karunrung, No. 1 B, Sawerigading, Mangkura, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90113",0.19994952887585288,0.9922981553339847,1,1,1,0,0,26
+Fast Laundry,081234567891,"RCVF+48H Fast Laundry, Mandala, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90135",0.1988608437454532,0.9927463707170023,1,1,1,1,1,27
+Losari Laundry Coin,081234567891,"Jl. Somba OPU No.231, Maloku, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90112",0.20020496090071316,0.992012827631398,1,1,1,1,1,28
+Laundry Expresso,081234567891,"Jl. Hertasning Baru No.E1 no 11, Mappala, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",0.19723849298181728,0.9941588907077081,0,0,0,1,0,29
+Go Laundry,081234567891,"Jl. Rappocini Raya No.177, Bua Kana, Rappocini, Makassar City, South Sulawesi 90222",0.1988274557124481,0.9931913426557237,0,0,1,0,1,30
+Laundry Balap,081234567891,"Jalan Mapala (BTN Pemda) Blok E22 Nomor 37, Tidung, Rappocini, Tidung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",0.19791955456563703,0.9933658208797391,1,0,0,0,0,31
+GhiQo Laundry,081234567891,"Jl. Sungai kelara No.18, North Pisang, Ujung Pandang, Makassar City, South Sulawesi 90115",0.2008908180556691,0.9924102926507317,0,1,0,0,0,32
+Losari Laundry Panakkukang,081234567891,"Jl. Topaz Raya No.F7, Masale, Panakkukang, Makassar City, South Sulawesi 90231",0.19906008615379261,0.9934992313752486,0,1,0,1,1,33
+Laundrita’,081234567891,"Lorong 3 No.8, RT.004/RW.05, Mangasa, Tamalate, Makassar City, South Sulawesi 90221",0.19629222726591633,0.9935218877876064,0,0,1,1,0,34
+Neat n' Tidy Laundry Services,081234567891,"Blok E1 No.14, Pandang, Panakkukang, Makassar City, South Sulawesi 90231",0.199182147011581,0.9941642328512543,0,0,1,1,0,35
+The Laundry Lounge,081234567891,"Jl. Pattimura No.43, Bulo Gading, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90174",0.20073165938343063,0.9918892905619057,0,1,0,1,0,36
+87 Laundry express makassar,081234567891,"Ruko Marina Mas II Jl. Bukit Baruga Raya No.21, Antang, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90234",0.19890861849186703,0.9956225903414904,1,1,1,1,1,37
+Mom Laundry,081234567891,"Jl. Lasinrang No.42, Mangkura, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90113",0.1997329138324539,0.9923103182500927,1,1,0,1,1,38
+Cuci Sepatu Makassar,081234567891,"Jl. Bukit Baruga No.19, Antang, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90234",0.19894327327951183,0.9955197540782379,0,1,0,1,0,39
+"Kireiwash • Kirei Wash & Beyond - Makassar, Sulawesi",081234567891,"Jl. H. Borra No.7, Bulo Gading, Ujung Pandang, Makassar City, South Sulawesi 90174",0.20060742694625988,0.9919124716490764,1,0,0,0,0,40
+RE Laundry II,081234567891,"Jl. Dg. Tata III No.2, Parang Tambung, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90224",0.19620083996690507,0.9928293170350893,1,1,1,1,0,41
+Mr Laundry,081234567891,"Jl. Monginsidi No.57 D, Maricaya, Makassar, Makassar City, South Sulawesi 90142",0.19964089315612277,0.9927542408391901,1,1,1,1,1,42
+Topp Laundry Makassar,081234567891,"Jl. Ranggong Blk. B No.6, Baru, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90111",0.20048599946579138,0.9920838972196382,1,0,1,0,0,43
+MIM Laundry,081234567891,"Jl. RSI Faisal XIV, Banta-Bantaeng, Rappocini, Makassar City, South Sulawesi 90222",0.19829234235962356,0.9931294787255576,1,0,0,0,1,44
+75Laundry,081234567891,"1 no. 3, Jl. Yos Sudarso, Tabaringan, Ujung Tanah, Makassar City, South Sulawesi 90165",0.20220136621297535,0.9924850826603695,0,0,1,0,0,45
+Makassar Laundry,081234567891,"Jl. Sungai Saddang Baru No.12, Maricaya Baru, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90114",0.19975815844277484,0.9928683337620559,1,1,1,0,1,46
+Laundry F4,081234567891,"VC2M+C4F Laundry F4, Jl. Sungai Saddang Baru, Balla Parang, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",0.19960813850043752,0.9931964463107175,0,0,1,1,1,47
+Clean Laundry,081234567891,"Jl. Onta Lama No.424/63, Mamajang Luar, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90132",0.19888310243412327,0.9925874419465206,0,0,0,1,0,48
+Internasional Laundry,081234567891,"Jl. Sungai Saddang Lama No.55-B, South Pisang, Ujung Pandang, Makassar City, South Sulawesi 90141",0.19990428763871865,0.992589969925163,0,1,1,0,0,49
+Laundryan,081234567891,"Jl. Batua Raya III No.11a, Batua, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90233",0.1993814799023947,0.9945485333025648,0,0,1,1,0,50
+Edwash Premium Laundry Service,081234567891,"Jl. Domba No.41, Maricaya, Makassar, Makassar City, South Sulawesi 90142",0.1995020025581204,0.9926516430644883,0,1,0,1,1,51
+Laundry Lia,081234567891,"Jl. Onta Lama No.7, Mamajang Luar, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90132",0.1989700560918954,0.9924487847028862,1,1,1,1,1,52
+Laundry Kilat Onta Lama,081234567891,"Jl. Onta Lama No.62, Bonto Biraeng, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90113",0.1988764972135016,0.9925630684165938,1,0,1,1,1,53
+Alsya Laundry,081234567891,"VC88+MRH Alsya Laundry, JL. Benua Raya, Gaddong, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90156",0.20102002702892463,0.9924487847028862,1,1,0,1,1,54
+Fresh & Clean Laundry,081234567891,"Ruko Jade, Jl. Topaz Raya No.9, Masale, Panakkukang, Makassar City, South Sulawesi 90231",0.19919155718890486,0.9934357457229339,0,0,0,1,0,55
+Mega Klin Laundry,081234567891,"Jl. Veteran Utara No.6, Gaddong, Kec. Bontoala, Kota Makassar, Sulawesi Selatan 90213",0.20120786864550622,0.9926213073207828,0,1,1,1,0,56
+Laundrygue.com,081234567891,"Jl. Bakti No.18, Tamamaung, Kec. Panakkukang, Kota Makassar, Sulawesi Selatan 90231",0.19991595987789923,0.993349508262841,0,1,0,1,1,57
+On clean laundry,081234567891,"Jl. Abubakar Lambogo No.44, Bara-Baraya, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90143",0.19993487071502142,0.9929625367397579,1,1,1,0,1,58
+Laundryne,081234567891,"RCHG+687 Laundryne, Jl. Andi Tonro, Pa'baeng-Baeng, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90233",0.19752414615308328,0.9928622761528567,0,1,0,1,1,59
+Yhoyo Laundry & Dry Cleaning,081234567891,"Jl. Cendrawasih V No.52, Kunjung Mae, Mariso, Makassar City, South Sulawesi 90125",0.19875796517220984,0.9921766215683219,0,1,0,0,0,60
+Laundry Kinclong,081234567891,"Jl. G. Salahutu No.24 A/38, Mardekaya Utara, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90144",0.19799899817804484,0.9942163664485335,1,0,1,1,0,61
+Alyssum Laundri Rappokalling,081234567891,"Jl. Toddopuli 7 No.2, Borong, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90222",0.2016485182951943,0.9935078646608,1,1,1,0,1,62
+Laundryta',081234567891,"VCFQ+CPW Alyssum Laundri Rappokalling, Jl. Rappokalling Raya, Rappojawa, Kec. Tallo, Kota Makassar, Sulawesi Selatan",0.19942545438488923,0.994620986124402,1,1,1,1,1,63
+LaundryN Service,081234567891,"Jl. Bonto Bila Raya No.3, Batua, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90233",0.20634229664787762,0.9960264468539943,1,0,0,1,1,64
+Dhylla Laundry,081234567891,"Jl. Mutiara Boulevard Kios Kirana Raya No.88, Bulurokeng, Kec. Biringkanaya, Kota Makassar, Sulawesi Selatan 90243",0.20089036564329776,0.9938838657105302,1,0,1,0,1,65
+Lafatching Laundry,081234567891,"Jalan Pampang 1 Lorong 6 No 3, Pampang, Panakkukang, Pampang, Kec. Panakkukang, Kota Makassar, Sulawesi Selatan 90231",0.19708277264360102,0.9926745856631074,0,1,1,0,0,66
+Fyndhy Laundry Talasalapang,081234567891,"Jalan Andi Tonro IV Selatan Lr. 3 No. 6, Bontoduri, Tamalate, Parang Tambung, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90225",0.1965855714474951,0.9937384353920447,1,0,1,1,0,67
+Clean & Dry Laundry,081234567891,"Jl. Talasalapang No.32, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",0.1973873366519891,0.9923900211238843,0,0,1,0,0,68
+Khirene Laundry & Dry cleaning,081234567891,"Jl. Andi Mappaodang No.61B, Jongaya, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90223",0.20027363709868296,0.9919912205686643,1,1,1,1,0,69
+LAUNDRY TRANSMADITYA,081234567891,"Jl. Somba OPU No.208, Maloku, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90111",0.19874493569591511,0.991971092134948,0,0,1,1,1,70
+Laundry karpet,081234567891,"Jl. Nuri Lorong 303 No.49, Mariso, Kec. Mariso, Kota Makassar, Sulawesi Selatan 90121",0.20414502024273906,0.9980430583447459,1,0,0,1,0,71
+Cuci Karpet Taeng Gowa,081234567891,"Jl. Poros Jl. Laikang, Sudiang, Kec. Biringkanaya, Kota Makassar, Sulawesi Selatan 90242",0.19536441997476617,0.9929842868956218,1,1,1,0,1,72
+Sindwhy Laundry,081234567891,"Jl gantaran taeng No.48, Sungguminasa, Kec. Pallangga, Kabupaten Gowa, Sulawesi Selatan 90111",0.20092103920207477,0.9938672669073716,0,1,1,0,0,73
+laundry karpet gowa,081234567891,"Jl. Pampang 1 SD Inpres Pampang 1 No.Samping, Pampang, Kec. Panakkukang, Kota Makassar, Sulawesi Selatan 90233",0.19459948113729947,0.9945778196966453,1,1,1,1,1,74
+R4 Dry Cleaning & Laundry Makassar,081234567891,"Jl. Mangka DG. Bombong No.C14, Bonto Bontoa, Kec. Somba Opu, Kabupaten Gowa, Sulawesi Selatan 92113",0.1987158908216749,0.9943222553652404,1,1,1,1,1,75
+Many Loundry,081234567891,"Jl. Meranti No.242, Paropo, Kec. Panakkukang, Kota Makassar, Sulawesi Selatan 90221",0.19801827094506402,0.9936950304757364,1,0,1,0,1,76
+Gloria Laundry,081234567891,"JL Bonto Daeng Ngirate, Blok 20 No. 5, Tidung, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90222",0.19743348271386607,0.9921109895190483,0,0,1,0,0,77
+Java Loundry,081234567891,"Jl. Opu Daeng Risadju No.379, Karang Anyar, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90255",0.2029424176772352,0.9926598947683569,1,1,1,1,1,78
+"Loundry, Q",081234567891,"Jl. Sabutung No.57, Gusung, Ujung Tanah, Makassar City, South Sulawesi 90162",0.19722591591789396,0.9940392648504552,1,1,1,1,1,79
+Makassar LaundryMart,081234567891,"001, Jl. Tidung 10 No.91, RW.10, Mappala, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",0.19615559872977079,0.995817530883194,1,0,1,1,1,80
+Laundry BBA,081234567891,"Jl.Tamangapa V Berlian Permai Blok A4/5 Depan SMA 10, Tamangapa, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90234",0.1968762011548459,0.9922109639196872,0,1,1,0,0,81
+Ntaps Laundry,081234567891,"Jl. Baji Gau No.1, Bongaya, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90223",0.1962929511257105,0.9932719994837198,1,1,1,1,1,82
+Azhraf Laundry,081234567891,"Jl. Andi Mappaodang No.111, Balang Baru, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90223",0.1970066768827412,0.9929789924497863,0,1,0,0,0,83
+MY LAUNDRY,081234567891,"Jl. Muhajirin II No.25, Mangasa, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90224",0.19659154329079687,0.9937353827385893,1,1,1,1,1,84
+Me Laundry Home,081234567891,"Jl. Mannuruki Raya No.80, Mannuruki, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90221",0.19899249574551403,0.9919757188128404,1,0,0,0,1,85
+Laundry Bagus,081234567891,"RC9V+3JX MY LAUNDRY, Jalan talassalapang, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",0.19489508738073497,0.9910249126571449,0,1,0,1,1,86
+Laundry Berkah,081234567891,"Jl. Rajawali 1 Lrg. 13B No.63, Panambungan, Mariso, Makassar City, South Sulawesi 90122",0.1979434419388439,0.9937137756758565,1,1,0,1,0,87
+Laundry 2547,081234567891,"Jalan mallombasi no 38, Barombong, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90225",0.197504511456167,0.9919364158996125,0,1,0,1,0,88
+Laundry Fadmi,081234567891,"RCMV+3F6 Laundry Berkah, Bonto Makkio, Makassar, Makassar City, South Sulawesi",0.20105974883512856,0.9940057333601642,1,1,1,1,1,89
+I'm Laundry,081234567891,"Jl. Tanjung Bunga No.6, Sambung Jawa, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90131",0.19652594349695213,0.9938712258173199,1,0,1,0,0,90
+Adzrah Laundry,081234567891,"Jalan Pampang 2 Lorong 5 No 41, Pampang, Panakkukang, Pampang, Kec. Panakkukang, Kota Makassar, Sulawesi Selatan 90231",0.19749546320874006,0.9925571539005258,0,0,0,1,0,91
+Laundry Kiloan,081234567891,"Jl. Talasalapang No.64 C, Karunrung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",0.20111792906608328,0.996381842492907,1,1,1,1,1,92
+Soft & Clean Laundry,081234567891,"Jl. Andi Tonro Kelurahan No.32 A, Jongaya, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90223",0.19742751087056443,0.9919054600856736,1,0,0,0,0,93
+LAUNDRY TERDEKAT,081234567891,"Jl. Kesenangan 3 No.1 C, RT.2/RW.2, Tamalanrea, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245",0.20310809108762096,0.9971873137255356,0,1,1,0,0,94
+Laundry 61,081234567891,"Jl. Tanjung Dapura No.36, Sambung Jawa, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90224",0.19871625275157195,0.9926080473573391,1,0,0,0,0,95
+Laundry A2M,081234567891,"VGQ8+WH5 LAUNDRY TERDEKAT, Jl. Pajjaiang, Sudiang Raya, Kec. Biringkanaya, Kota Makassar, Sulawesi Selatan",0.19972522282214106,0.9935617153756482,1,0,0,1,0,96
+Amaz Laundry,081234567891,"Jl. Singa No.61, Bonto Biraeng, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90132",0.19167943072770338,0.9928493977710948,1,1,1,1,1,97
+Laundry,081234567891,"Jl. A. P. Pettarani III No.24B, Tamamaung, Kec. Panakkukang, Kota Makassar, Sulawesi Selatan 90232",0.20249697245641085,0.9923430388793095,1,1,1,1,1,98
+Laundry57,081234567891,"QC7G+96C Amaz Laundry, Jalan Poros, Lembang Parang, Barombong, Gowa Regency, South Sulawesi 90225",0.20164860877766855,0.9934982297233335,0,1,1,1,1,99
+LAUNDRY EXPRESS,081234567891,"Jl. Satando II No.15/19, Malimongan Tua, Kec. Wajo, Kota Makassar, Sulawesi Selatan 90174",0.20048853297507097,0.9930351803524351,1,1,0,1,1,100
+Erlangga Laundry,081234567891,"Jl. Rappokalling Raya No.27b, Rappokalling, Kec. Tallo, Kota Makassar, Sulawesi Selatan 90216",0.21186552784218116,1.0,1,1,1,0,1,101
+Alyssum Laundry Cabang Tamangapa III,081234567891,"Jl. Maccini Sawah No.55, Maccini Gusung, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90144",0.19725061763336926,0.9952542686231061,0,1,0,1,0,102
+R laundry,081234567891,"Jl. Lanto Dg. Pasewang B No.7, Pettuadae, Kec. Turikale, Kabupaten Maros, Sulawesi Selatan 90516",0.19935894976630175,0.9946243249641187,1,0,1,0,1,103
+Marinizung Dry Cleaning,081234567891,"Tamanggapa Raya III No.40, RT.001/RW.01, Bangkala, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90235",0.19990428763871865,0.9925543874333318,0,0,1,0,1,104
+B. Laundry,081234567891,"Jl. Bonto Bila 3 No.4, Batua, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90233",0.19860649751028414,0.9926055670764073,0,1,1,1,0,105
+57 Laundry,081234567891,"Plaza Latanette Blok F 6, JL Sungai Sanddang, Pisang Sel., Kec. Makassar, Kota Makassar, Sulawesi Selatan 90141",0.1970545421116292,0.9931228487438357,1,1,1,1,1,106
+Kamila Laundry Service,081234567891,"Jl. Tupai No.47, Bonto Biraeng, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90132",0.1987302775350836,0.9926104799405602,1,1,1,1,1,107
+Special Laundry,081234567891,"Jl. Mannuruki 2 No.39, Mannuruki, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90223",0.1974380973200538,0.9926817880173529,0,1,0,1,0,108
+Spesial Laundry,081234567891,"Jl. Tupai No.88B, Bonto Biraeng, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90132",0.19696098323323552,0.99328239758455,1,1,0,1,0,109
+Me Laundry,081234567891,"JL. BJ. Gau, No. 37 D, Pa'baeng-Baeng, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90223",0.1982011360255609,0.9925578216684681,0,1,0,0,0,110
+Dolphin Laundry & Dry Cleaning Semarang,081234567891,"Jl. Mannuruki 2 No.81, Mangasa, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90221",0.03419196978898753,0.5629289484891915,0,0,0,1,0,111
+Daily Fun Wash Laundry Coin,081234567891,"Jl. Tupai No.127, Mamajang Dalam, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90132",0.03334342514529676,0.5635704826917651,1,0,0,0,0,112
+Mr. Laundry (Dry Clean & Laundry Hotel),081234567891,"Indonesia, Ruko, Jl. Imam Bonjol No.147, Pindrikan Lor, Semarang Tengah, Semarang City, Central Java 50131",0.032425208996418986,0.5635836949574982,0,0,0,1,0,113
+Wash Wash Laundry & Wet Clean,081234567891,"Jl. Anggrek IV No.50, Pekunden, Semarang Tengah, Semarang City, Central Java 50241",0.033060576930733054,0.5640933449912895,0,0,0,0,1,114
+Laundry Momo,081234567891,"Ruko Pertokoan, No.6A, Jl. Pleburan Raya, Pleburan, Semarang Selatan, Semarang City, Central Java 50241",0.03215674749526409,0.5640544713574531,1,1,1,1,1,115
+Orange Laundry Semarang Kedungmundu,081234567891,"Jl. Sidodadi Timur No.34, Karangtempel, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50125",0.029969152714872327,0.5654308364838068,1,1,0,0,1,116
+My Laundry Express Mugas Semarang,081234567891,"2C2P+577 Laundry Momo, Jl. Pandean Lamper II, Peterongan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50242",0.033177299322539544,0.5630388440135583,1,1,1,1,1,117
+Freshde Laundry,081234567891,"Jl. Kedungmundu No.50, Sambiroto, Kec. Tembalang, Kota Semarang, Jawa Tengah 50273",0.034120669599263964,0.5619230514781828,1,0,0,1,1,118
+Tempat Cuci Gajah,081234567891,"Jl. Mugas No.740, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249",0.03410573999100963,0.5646805038042029,1,0,0,1,0,119
+Schoon ID - Professional Laundry Services,081234567891,"Panggung Kidul, Kec. Semarang Utara, Kota Semarang, Jawa Tengah",0.03306311044001253,0.5637566468547863,1,0,1,1,0,120
+J & I Laundry,081234567891,"Jl. Anjasmoro Raya No.38, Karangayu, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50142",0.033430831215440215,0.5630409427128082,0,0,1,1,1,121
+LAUNDRY,081234567891,"JL. Gajah, No. 21, Pandean lamper, Gayamsari, Sambirejo, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50167",0.03154173811766037,0.566883422551105,1,1,1,0,0,122
+My Laundry Express Kusumawardani Semarang,081234567891,"2C6H+5QX Schoon ID - Professional Laundry Services, Jl. Ki Mangunsarkoro, Karangkidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50136",0.03245217277375101,0.5633765438019758,0,0,1,1,0,123
+Lares Laundry Express Semarang,081234567891,"2C77+RQ3 J & I Laundry, Jl. Pekunden Tengah, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50241",0.033263800567940316,0.5641133780295853,0,1,1,1,1,124
+126 Laundry,081234567891,"XFVV+CXX LAUNDRY, Jalan Kyai Morang, Pedurungan Lor, Pedurungan, Jamos, Plamongan Sari, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50194",0.03175265276518058,0.5639613654270876,1,1,1,1,1,125
+Laundry Home Semarang - Utama,081234567891,"H-28, No, Jl. Kusuma Wardani, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241",0.028209359072822404,0.5632515758011767,0,1,0,0,0,126
+Laundry Muara,081234567891,"2CVX+GGV Laundry, Jl. Tenggang Raya, Tambakrejo, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50112",0.03176459645178398,0.5637230676667855,0,0,1,1,1,127
+Laundry Sweety,081234567891,"Jl. Labuan Raya No.9, Karangtempel, Semarang Timur, Semarang City, Central Java 50232",0.03400973808581065,0.5632538175935577,0,0,1,1,0,128
+Laundry Kharisma,081234567891,"Jl. Peterongan Tengah Raya No.126, RT.01/RW.3, Peterongan, Semarang Selatan, Semarang City, Central Java 50242",0.029451050067210383,0.5632566794561713,1,1,0,0,0,129
+laundrysemarang.com,081234567891,"Jl. Ngesrep Barat Dalam I No.44, Tinjomoyo, Banyumanik, Semarang City, Central Java 50262",0.03245633496756739,0.563086350932946,1,1,1,1,1,130
+Clear&clean laundry express semarang,081234567891,"Jl. Giri Mulyo Mukti I No.216 B, Tlogomulyo, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50127",0.03246321163561183,0.5635471585114633,1,1,0,1,0,131
+aQualis Laundry & Wet Clean - Semarang,081234567891,"XCWH+CFQ Laundry Muara, Jalan, Kopen III, Wonodri, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50242",0.03203179119829913,0.5633094808213945,0,1,0,0,0,132
+Melia laundry & Dry Cleaning,081234567891,"Jl. Kelengan Kecil No.2/G, Kembangsari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50133",0.02669757789274274,0.563654478359477,1,0,1,0,1,133
+Joy Laundry Semarang,081234567891,"Jl. Gergaji Balekambang VII No.16, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50243",0.035595171999944886,0.5624855505749071,0,1,0,1,0,134
+Crystal Clean Drycleaning,081234567891,"XCC9+6H4 Laundry Kharisma, Jl. Kesatrian, Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah 50271",0.03337219857211415,0.563382410620334,0,0,1,0,1,135
+GAMA Laundry,081234567891,"Jl. Veteran No.40, Mugassari, Semarang Selatan, Semarang City, Central Java 50249",0.03311341869570594,0.5630399887586037,0,0,1,0,0,136
+Washteria,081234567891,"Jl. Pleburan Barat No.38B, Pleburan, Semarang Selatan, Semarang City, Central Java 50241",0.03341979235357939,0.5639112351336371,1,1,1,1,0,137
+Tukang Cuci Laundry Pusat,081234567891,"Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",0.025784066832526986,0.5635155349295813,0,1,0,1,0,138
+®® Laundry,081234567891,"ruko siranda, Jl. Diponegoro No.8i, Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah 50231",0.030681521234788955,0.5618728734870224,1,0,1,0,1,139
+Tatarapi Laundry and Wet Clean,081234567891,"Jl. Tirto Agung No.64D, Tembalang, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50275",0.026603838049400474,0.5630965582429344,0,1,0,0,0,140
+Elephant King,081234567891,"Jl. Selomas Bar. IV No.167, Panggung Lor, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50177",0.03343942705049574,0.5632013024145959,1,1,0,1,1,141
+In-Dry Laundry,081234567891,"Jalan Mayjen Sutoyo No.969, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134",0.03258608683566855,0.561274934991598,0,1,1,1,1,142
+Cika Laundry Hasanudin,081234567891,"Jl. Kyai Saleh No.62, Mugassari, Semarang Selatan, Semarang City, Central Java 50243",0.03487900321610904,0.5629380587518451,1,0,0,0,0,143
+Vetoux laundry,081234567891,"Jl. Kartini II No.1, Karangturi, Semarang Timur, Semarang City, Central Java 50124",0.030208931271684114,0.5633023738625704,0,1,0,0,0,144
+Vellian laundry,081234567891,"Jl. Tusam Raya, Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50268",0.03505689176052107,0.5629418268709525,1,1,1,1,1,145
+Laundry Trezno Semarang,081234567891,"Jl. Menoreh Selatan Gg. Buntu 3, Sampangan, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50233",0.03315811703799465,0.5631205501911793,0,1,0,1,0,146
+SEVEN Professional Laundry on Kilo's and Dry Clean,081234567891,"Jl. Durian Raya No.16, Srondol Wetan, Banyumanik, Semarang City, Central Java 50263",0.030725405234809156,0.5618527450533062,1,1,0,1,1,147
+Cuci Express Laundry Jalan Borobudur Utara Raya,081234567891,"Jl. MH Thamrin No.136, Miroto, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134",0.032252568435514495,0.5613391838072763,1,1,1,0,1,148
+Primaklin Laundry & Dry Clean,081234567891,"Jl.wologito tengah III B no.3, Kembangarum, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50183",0.03164633585791499,0.5635231188655085,1,0,0,0,0,149
+CLING Laundry,081234567891,"Jalan Hasanudin No.G11, Plombokan, Semarang Utara, Plombokan, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50171",0.03518347674202282,0.5628529660367976,0,0,1,0,1,150
+My Laundry,081234567891,"Jl. Sultan Agung No.162 E, Kaliwiru, Kec. Candisari, Kota Semarang, Jawa Tengah",0.034310411347805214,0.5642772196642207,1,1,1,1,0,151
+Divya Laundry and Shoes care,081234567891,"Jl. Purwosari Perbalan No.C 50, Purwosari, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50172",0.029098711312408487,0.5635158688135533,1,0,0,0,0,152
+Klin Binatu,081234567891,"2C68+JF4 Laundry Trezno Semarang, Jl. Mugas No.778, RT.005/RW.002, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249",0.03480743157896249,0.5618915709894319,0,1,0,0,0,153
+Be Clean Laundry and Dry Cleaning,081234567891,"Jl. Menoreh Raya No.55, Sampangan, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50232",0.02811996238824499,0.563419614834312,1,1,1,1,1,154
+Cuci express laundry Indraprasta,081234567891,"Jl. Borobudur Utara Raya No.4, Manyaran, Semarang Barat, Semarang City, Central Java 50147",0.034067646869342494,0.5627757434439378,0,0,0,1,0,155
+Self Service Laundry Anjasmoro,081234567891,"Jl. Genuk Perbalan V No.1, Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah 50614",0.033801175982621556,0.561936216046206,1,1,1,1,1,156
+Dian laundry,081234567891,"Jl. Brotojoyo Timur II No.9, Panggung Kidul, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50178",0.034923430110974873,0.5646493095017124,1,0,0,0,1,157
+Kedai Arafah Dan Laundry,081234567891,"Jl. Kanalsari Bar. 2B A No.mor 63, Rejosari, Kec. Semarang Tim., Kota Semarang, Jawa Tengah 50125",0.03524563820184534,0.5655245624844056,1,1,1,1,1,158
+Murah Laundry,081234567891,"Jl. Jangli Perbalan Sel. No.1, Ngesrep, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50261",0.035098694663633134,0.5627448830254203,0,1,1,1,1,159
+CippuClean Laundry Express,081234567891,"JL. Puri Anjasmoro Bl D-1/2, Tawangmas, Semarang Barat, Semarang City, Central Java 50144",0.02944562111875415,0.562846097566525,1,0,1,0,1,160
+Circle laundry,081234567891,"Jl. Bukit Sari Raya No.14, Sumurboto, Banyumanik, Semarang City, Central Java 50241",0.028355216821343454,0.5659616643009393,1,1,1,1,0,161
+Doktor Laundry,081234567891,"Jl. Indraprasta No.44, Pindrikan Lor, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50131",0.03264824829549107,0.5644954843862262,0,1,0,0,0,162
+i-Laundry,081234567891,"Jl. Anjasmoro Raya No.4C, Karangayu, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",0.03352267092682282,0.562196120869241,1,0,0,0,1,163
+Laundry Juang354,081234567891,"2CJX+97R Dian laundry, Jl. Dempel Bar., RT.06/RW.8, Sawah Besar, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50163",0.027751246305600552,0.563378070128703,1,0,1,1,0,164
+Express Laundry,081234567891,"2FM8+RJC Kedai Arafah Dan Laundry, Jl. Kapas Utara Raya, Gebangsari, Kec. Genuk, Kota Semarang, Jawa Tengah 50117",0.032269941070574126,0.5616762635254613,0,1,1,1,0,165
+Alsya laundry,081234567891,"Panggung Kidul, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50178",0.031081363288581798,0.5640756491407952,0,1,1,1,1,166
+Laily Laundry,081234567891,"Jl. Karangrejo Raya No. 103 A, Jatingaleh, Karangrejo, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50234",0.034876922119200904,0.5638414056858627,0,1,0,0,0,167
+Cleanpro Express Jalan Supriyadi,081234567891,"Jl. Bukit bougenvil raya E 67 A, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah 50272",0.03184820225800811,0.5649702673938402,0,1,1,0,0,168
+Rumah Laundry 161,081234567891,"Jl. Badak V No.4, Pandean Lamper, Gayamsari, Semarang City, Central Java 50249",0.030221236888184566,0.5634686003827172,1,1,1,0,1,169
+Artifa Laundry,081234567891,"Jl. Puspowarno No.38, Salamanmloyo, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",0.03218054438599671,0.5653384937168049,1,1,1,0,1,170
+Anfiza laundry,081234567891,"XC2C+MHX Laundry Juang354, Jl. Ngesrep Timur V Dalam I, Sumurboto, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50269",0.035888154251626614,0.5631621902922088,1,1,1,1,1,171
+Cathy Laundry 2,081234567891,"292P+M88 Express Laundry, Gisikdrono, Semarang Barat, Semarang City, Central Java 50147",0.03216860069939331,0.5635082371799163,1,1,1,1,0,172
+Superwash Soegiyopranoto,081234567891,"XCQP+CF6 Alsya laundry, Jl. Taman Singotoro, Jomblang, Kec. Candisari, Kota Semarang, Jawa Tengah 50256",0.033620391999032884,0.5626723825058724,0,0,0,0,1,173
+Jleger Laundry,081234567891,"Kp. Batiksari no No.18, Rejomulyo, Kec. Semarang Tim., Kota Semarang, Jawa Tengah 50227",0.03124350788247121,0.5639965663372362,1,1,0,0,1,174
+FREZZY Laundry & Dry Cleaning,081234567891,"Ruko Arthamas, No, Jl. Supriyadi No.12X, Kalicari, Pedurungan, Semarang City, Central Java 50198",0.03459425486958567,0.5618949098291477,0,0,0,0,1,175
+Shekar Laundry Semarang,081234567891,"Jl. Dr. Wahidin No.161, Kaliwiru, Kec. Candisari, Kota Semarang, Jawa Tengah 50253",0.03289037939663386,0.5626283098216218,1,1,1,1,0,176
+Pulito laundry,081234567891,"Jl. Tlogo Putih No.mor 193, Palebon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50199",0.033681377186689954,0.5632314473674604,1,1,1,1,1,177
+Ary Laundry,081234567891,"2CR8+MQ9 Anfiza laundry, Jl. Lodan 4, Bandarharjo, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50175",0.03344187007730093,0.5618774047694943,0,0,1,0,1,178
+Fastklin Laundry Coin,081234567891,"Jl. Pleburan Barat No.48, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241",0.03434217069627343,0.5636942582498072,1,0,1,1,1,179
+Laundry 26,081234567891,"Jl. Mgr Sugiyopranoto No.14F, Bulustalan, Semarang Selatan, Semarang City, Central Java 50245",0.03216190499629745,0.5638035337039407,1,0,1,1,0,180
+Pulito Dry Cleaning Semarang - Brigjen Sudiarto,081234567891,"Jl. Jomblang Sari No.10 A, Jomblang, Kec. Candisari, Kota Semarang, Jawa Tengah 50256",0.031918145210617865,0.5646966256302592,1,0,1,1,1,181
+CUCI Express Laundry,081234567891,"Jalan Puri Anjasmoro CI - 22/6, Tawangsari, Semarang Barat, Tawangmas, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50144",0.03369024446916824,0.565219392534364,0,0,0,0,1,182
+"42 Laundry, Batik Laundry, & Dry Clean",081234567891,"Jl. Barusari Baru No.19, Barusari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50245",0.032720815239854484,0.5630388917112681,1,0,1,0,0,183
+Fa'i Laundry,081234567891,"Jl. Moh. Suyudi No.69, Miroto, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134",0.033522308996925765,0.5625744591067736,1,0,0,0,0,184
+Karunia Laundry & Dry Cleaning,081234567891,"Jl. Puspogiwang Barat No.11, Gisikdrono, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",0.03247895558613456,0.5628220102228587,0,0,1,0,0,185
+Home Laundry,081234567891,"Gg. Pinggir No.17, Kranggan, Semarang Tengah, Semarang City, Central Java 50133",0.032739273664605384,0.5643447596219042,1,0,0,0,1,186
+NR Laundry,081234567891,"Jl. Wonodri Krajan II No.26, RT.03/RW.01, Wonodri, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50242",0.031820062208510635,0.564486660309834,1,1,1,0,1,187
+Zero Point Laundry,081234567891,"Jl. Majapahit No.B168, Gayamsari, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50161",0.02664328840818153,0.5643491955089557,0,0,0,1,1,188
+CippuClean Laundry & Dryclean (Workshop),081234567891,"2F86+W2X CUCI Express Laundry, Jl. Tlogosari Raya II, Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",0.03187100384152386,0.5633169693619005,0,0,1,0,1,189
+La Laundry,081234567891,"Jl. Menteri Supeno No.42, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249",0.03288757443993151,0.5611379948655326,0,0,0,1,0,190
+SEKAR JAGO Laundry,081234567891,"Jl. Bulustalan III No.347, Bulustalan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50246",0.0326935800150997,0.5601910999220765,1,1,1,1,0,191
+Auren Laundry,081234567891,"2C35+HWW Karunia Laundry & Dry Cleaning, Jl. Kintelan Baru, Bendungan, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50231",0.031123166191693863,0.5644128719521104,1,1,1,0,1,192
+Ditta Laundry,081234567891,"Jl. Bulustalan III No.347, Bulustalan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50246",0.029856411551933637,0.5638684979852719,1,1,0,0,1,193
+Famili laundry,081234567891,"Jl. Badak V No.18, Pandean Lamper, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50249",0.0338335687084097,0.5627051985305096,0,1,0,0,0,194
+Ar'y Laundry,081234567891,"Gg. X No.8, Lamper Tengah, Semarang Selatan, Semarang City, Central Java 50248",0.032049435280781524,0.5619125102842224,0,1,0,0,1,195
+Latansya Laundry,081234567891,"Jl. Gondang Raya No.02B, Tembalang, Semarang City, Central Java 50275",0.030723957515220945,0.5620102428924811,1,0,1,1,1,196
+Rizkyta Laundry,081234567891,"Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah 50614",0.03318743335965768,0.5643926004252631,0,0,1,1,1,197
+5àsec Semarang,081234567891,"Jalan.Dinar Asri Ruko B No.8, Kelurahan.Meteseh, Kecamatan.Tembalang, Meteseh, Kec. Tembalang, Kota Semarang, Jawa Tengah 50127",0.032392092410836626,0.5631209794705718,0,0,0,1,0,198
+Siwalan Laundry & Dry Clean,081234567891,"295F+9RV La Laundry, Kembangarum, Semarang Barat, Semarang City, Central Java 50183",0.03246809768922232,0.5638225650903221,0,0,0,0,1,199
+Laundry Semarang,081234567891,"Perum BPI Blok J.30, Purwoyoso, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50184",0.03426127936427725,0.561914847472023,1,1,0,0,1,200
+Anugerah Laundry & Dry Cleaning,081234567891,"Jl. Lamper Tengah I No.545B, Lamper Tengah, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50248",0.0312914635938335,0.5613463861615209,0,1,0,1,1,201
+My-Best Laundry Dan Dry Clean,081234567891,"XCFJ+XPV Ditta Laundry, Karanganyar Gunung, Candisari, Semarang City, Central Java 50255",0.030515576376980325,0.561920571197251,1,0,0,0,0,202
+Kiloan Laundry & Dry Clean,081234567891,"Jl. Nakula 1 No.66, Pendrikan Kidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50131",0.032449096369625896,0.5618100556026517,1,1,1,0,1,203
+Star Laundry,081234567891,"Jl. Wr. Supratman No.44, Manyaran, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",0.03398603167755221,0.5634844837202229,1,0,0,0,0,204
+Arsyta Laundry,081234567891,"Jl. Kendeng Barat I No.24, Sampangan, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50232",0.03210336283544568,0.5638669239608349,1,0,0,0,0,205
+Dian Laundry,081234567891,"Jl. Patiunus 1 No.26, Pandean Lamper, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50166",0.02941114729605787,0.5629555638114994,1,0,0,1,1,206
+Sri Laundry,081234567891,"2C6V+5HR Laundry, Jl. Griya Prasetya Utara II, RW.Nomer 23, Pandean Lamper, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50167",0.03282197464608683,0.5643862089320919,0,1,1,0,0,207
+RY LAUNDRY,081234567891,"Jl. Veteran No.35, Mugassari, Semarang Selatan, Semarang City, Central Java 50231",0.10229731382868978,0.3824412899616787,1,1,0,0,1,208
+JE CLEAN LAUNDRY,081234567891,"2C3J+G8W Siwalan Laundry & Dry Clean, Jl. Siwalan 1, Wonodri, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50242",0.10421563276565826,0.38134181004320045,1,1,0,0,1,209
+VIVA Laundry Serpong,081234567891,"Jl. Anjasmoro Raya No.60, Karangayu, Semarang Barat, Semarang City, Central Java 50142",0.10060737265677533,0.38195443943337537,1,0,1,0,1,210
+Maxpress Coin Laundry Alam Sutera,081234567891,"Bayer Indonesia, Blok 11D No.8 a, Bambankerep, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50211",0.10220094999359375,0.38394739285985313,0,1,1,1,0,211
+Loundry Manual,081234567891,"Jl. Cd. Prambanan Tim. Raya No.13, Kalipancur, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50183",0.033304879611258276,0.5618392466013118,0,1,1,1,1,212
+Royal Laundry Express,081234567891,"X9JR+W98 My-Best Laundry Dan Dry Clean, Jl. Gn. Talang III, Bendan Duwur, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50235",0.10419961736771277,0.38182298454398644,1,1,0,1,1,213
+ECO CLEAN Laundry Wet Cleaning & Dry Cleaning,081234567891,"293Q+FF6 Kiloan Laundry & Dry Clean, Jl. Tarupolo Raya, Gisikdrono, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",0.10111687946938175,0.3839777286035586,1,1,1,1,0,214
+Laundry Coin Xpress,081234567891,"2CCF+7F5 Star Laundry, Jl. Wotgandul Dalam, Gabahan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50135",0.10254650256282549,0.3826965681068213,0,1,1,1,1,215
+Laundrette,081234567891,"Jl. Sendangsari Utara VIII No.10, Kalicari, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50198",0.10105797537863292,0.3824856488321906,1,1,1,1,1,216
+GO LAUNDRY KARANG TENGAH,081234567891,"XCXJ+WMQ Arsyta Laundry, Jalan, Krajan II, Wonodri, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50242",0.10351710806430481,0.38675292447778276,1,1,1,1,1,217
+1PRO One Stop Laundry Services,081234567891,"Jl. Karang Rejo Raya No.mor 87, Karangrejo, Gajahmungkur, Semarang City, Central Java 50234",0.10110348806319003,0.3824826438764459,0,0,0,1,0,218
+Rodza Laundry,081234567891,"Jl. Bintoro Raya No.11, Pandean Lamper, Gayamsari, Semarang City, Central Java 50249",0.10744938591354358,0.3826367551781944,1,0,1,1,0,219
+Kwiknklin Laundry Bintaro,081234567891,"Kp. Gunung Sari RT 02, RT.002/RW.003, Panunggangan Bar., Kec. Cibodas, Kota Tangerang, Banten 15139",0.09974769866874944,0.3850612774868196,0,1,0,1,1,220
+Langit Laundry Karawaci,081234567891,"QJW4+M2W JE CLEAN LAUNDRY, Jl. Empu Gandring No.43, RT.005/RW.007, Cibodas Baru, Cibodas, Tangerang City, Banten 15138",0.10487959316184126,0.3818105831393268,1,1,0,1,1,221
+Gian Laundry Bintaro ( Laundry Antar Jemput ),081234567891,"Ruko Vienna A No.11, Gading Serpong, Kelapa Dua, Klp. Dua, Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810",0.09789253649882046,0.38775118985515444,0,0,0,1,1,222
+Griya Resik,081234567891,"Jl. Jalur Sutera Kav.19A No.2, RT.001/RW.015, Kunciran, Pinang, Tangerang City, Banten 15143",0.10122545843850406,0.3820864666952879,0,0,0,0,1,223
+Laundry Lab Gading Serpong,081234567891,"Jl. Puspogiwang III No.14, Gisikdrono, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",0.10066482902793583,0.38184950447087296,0,1,1,1,0,224
+Kireiwash • Kirei Wash & Beyond - Alam Sutera,081234567891,"Jl. Beringin Raya No.151, RT.001/RW.003, Perum 1, Nusa Jaya, Kec. Karawaci, Kota Tangerang, Banten 15116",0.10119170847560188,0.38395683700647876,1,0,1,0,1,225
+MOMMY LAUNDRY EXPRESS KILOAN,081234567891,"Ruko Jalur Sutera Kav. 31A No.20 Alam Sutera, Pakualam, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15320",0.10116990219930311,0.3832094138871982,1,1,1,1,0,226
+The Daily Wash pondok Betung,081234567891,"Ruko GWR Blok AA2/32, Jl. MH. Thamrin No.3, Kota Tangerang, Banten 15143",0.09900411369521012,0.3881266662300735,1,1,1,1,1,227
+Laundry Hotel - Biji Laundry (Pt. Binatu Jaya Indonesia),081234567891,"Pasar sinpasa rukoK20, jalan boulevard, Pakulonan Bar., Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810",0.10256921366386695,0.3848290373357166,0,0,1,1,1,228
+Plimsollpunk Laboratory,081234567891,"Jl. Karyawan 4 No.11, East Karang, Karang Tengah, Tangerang City, Banten 15157",0.10832272275518395,0.3827912480616247,1,0,1,0,0,229
+Queens Coin Laundry,081234567891,"Ruko Sentra Gading SG2 No. 11, Jl. Klp. Gading Sel., West Pakulonan, Kelapa Dua, Tangerang Regency, Banten 15810",0.11427447894762366,0.3856902194938918,1,0,0,1,1,230
+Cuci Inn Laundry Kiloan & Satuan,081234567891,"No, Jl. Ks. Tubun No.18, RT.003/RW.004, Ps. Baru, Kec. Karawaci, Kota Tangerang, Banten 15112",0.0979623889689557,0.38672306571117954,0,0,1,0,0,231
+Marc's Laundry Karang Tengah,081234567891,"Ruko Fiera Boulevard, Jl. Graha Raya Bintaro, West Pondok Kacang, Pondok Aren, South Tangerang City, Banten 15226",0.1038949628768504,0.38657119620181213,1,0,1,0,0,232
+Shine Wash Laundry,081234567891,"Jl. Beringin Raya No.#6, RT.002/RW.008, Nusa Jaya, Kec. Karawaci, Kota Tangerang, Banten 15116",0.10414758994500828,0.38301571348595953,1,1,1,1,0,233
+Snow Laundry,081234567891,"Jl. Mandar III Gg. Musholah No.3, Pondok Karya, Pondok Aren, South Tangerang City, Banten 15225",0.09921077566643954,0.38209738947093097,1,1,1,1,1,234
+Urban Coin Laundry,081234567891,"Ruko Islamic Village blok O7 no.5. Jalan Kano Raya. Kelapa Dua, Kelapa Dua, Tangerang Regency, Banten 15810",0.09727454119956591,0.386038221987719,1,1,0,1,0,235
+The DailyWash Laundromat - Villa Melati Mas,081234567891,"Ruko Arcadia Grande, Jl. Boulevard Raya Gading Serpong, Kelapa Dua, Tangerang Regency, Banten 15810",0.09825582363300878,0.38378192950307,1,0,0,0,1,236
+The Best Laundry,081234567891,"Ruko Imperial Walk, Jalur Sutera, Alam Sutera Kavling 29B No. 41 Tangerang, Pakualam, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15320",0.105866575991163,0.38172515654030725,0,1,0,0,0,237
+Yellowkets cuci sepatu dan tas,081234567891,"Jl. Kp. Kamurang Atas No.29, Pakualam, Serpong Utara, South Tangerang City, Banten 15320",0.10499142950003726,0.38272976571313944,1,1,1,1,1,238
+HARUME Laundry,081234567891,"Jl. Kp. Kamurang Atas No.29, Pakualam, Serpong Utara, South Tangerang City, Banten 15320",0.1032215018208692,0.3816476477611861,1,1,1,1,1,239
+Laundry. SIGER LAUNDRY,081234567891,"Jl. Mandar III Gg. Musholah No.3, Pondok Karya, Pondok Aren, South Tangerang City, Banten 15225",0.10441324648946093,0.37796013778342097,1,1,0,0,1,240
+Laundry Center,081234567891,"3, Jl. Pd. Betung Raya No.6, RT.3/RW.2, Pd. Karya, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15225",0.10275189777941529,0.3820482608293956,1,1,1,1,1,241
+JetWash Laundry,081234567891,"Jl. Sultan Ageng Tirtayasa No.20, Kunciran, Kec. Pinang, Kota Tangerang, Banten 11440",0.10592267512520959,0.3862002034116552,1,0,1,1,1,242
+Laundry Permata,081234567891,"Jl. Komp. Purnabhakti Sitanala No.04/03 no.39, RT.004/RW.003, Karang Sari, Neglasari, Tangerang City, Banten 15121",0.10763822283734215,0.3799851917688821,0,1,1,0,0,243
+Shin Laundry,081234567891,"Jl. Villa Taman Bandara No.9, Dadap, Kec. Kosambi, Kabupaten Tangerang, Daerah Khusus Ibukota Jakarta 15211",0.09845606134856522,0.3813480107455307,0,1,1,1,1,244
+CLEANIC LAUNDRY,081234567891,"Jl. Pd. Jaya No.5, RT.1/RW.3, Pd. Jaya, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15220",0.0990801189735957,0.37760269114296907,0,0,0,0,1,245
+Laundromat Coin Laundry IPSO,081234567891,"Jl. Raden Saleh No.72C, RT.001/RW.002, Karang Mulya, Karang Tengah, Tangerang City, Banten 15157",0.1004726442525894,0.3818418728372368,1,0,0,1,0,246
+Laundry.in,081234567891,"QJWR+C3C Shine Wash Laundry, Ruko Versaille Modernland, Jalan Honoris Bulevar Klp. Indah, Kec. Tangera, Kota Tangerang, RT.003/RW.001, Klp. Indah, Kec. Tangerang, Kota Tangerang, Banten 15117",0.10683347171119728,0.3827284301772531,0,1,0,0,1,247
+Dor2Dor Laundry Services,081234567891,"Ruko Bolsena Blok A 53 Jl.Raya Bolsena, Curug Sangereng, Kelapa Dua, Tangerang Regency, Banten 15810",0.1033996618127041,0.38572642205595553,1,0,0,1,0,248
+Kilo Laundry 1st Professionals,081234567891,"Ruko Emerald Boulevard, Blok AA 1, Jl. Jombang Raya No.29, Parigi, Pondok Aren, South Tangerang City, Banten 15227",0.09786095811530071,0.3879446994655522,0,0,0,1,1,249
+My laundry,081234567891,"Ruko Villa Melati mas Blok B10/11 Jelupang Kecamatan Serpong Utara, Jelupang, Kec. Serpong, Kota Tangerang Selatan, Banten 15310",0.10356994982927759,0.38128619451307433,0,0,1,1,1,250
+SUTERA LAUNDRY,081234567891,"QM4Q+246 LAUNDRY, Pd. Kacang Bar., Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15226",0.10467220733081761,0.3829953942614024,0,1,1,1,1,251
+Any Laundry,081234567891,"Jl. Subandi No.2, RT.003/RW.002, Cimone Jaya, Karawaci, Tangerang City, Banten 15113",0.10296661269085461,0.3814256149200732,1,1,1,0,0,252
+B! Laundry Partner at Helloroom Tangerang,081234567891,"Tangcity Mall lantai LG A 19 C, Jl. Jenderal Sudirman No.1, RT.001/RW.005, Babakan, Kec. Tangerang, Kota Tangerang, Banten 15118",0.1050981083371999,0.38266317970966046,1,1,0,0,0,253
+Laundry Keluarga,081234567891,"Ruko Sabina, Jl. Betet Raya No.10A, RT.001/RW.001, Cibodasari, Kec. Cibodas, Kota Tangerang, Banten 15138",0.10587870064271498,0.38344733006581766,1,0,0,1,1,254
+Laundry Perkilo Premium Sektor 5 Bintaro,081234567891,"Pasir Jaya, Kec. Cikupa, Kabupaten Tangerang, Banten 15710",0.09801016371536952,0.3872154014761575,0,0,1,0,0,255
+CITIZEN LAUNDRY BSD CITY,081234567891,"Lippo Cyber Park, JL Boulevard Gajah Mada, No. 2159, Curug Neglasari, RT.001/RW.009, Panunggangan Bar., Kec. Tangerang, Kota Tangerang, Banten 15138",0.09337990405962282,0.38505727087915975,0,0,0,0,1,256
+Royal Professional Laundry Services,081234567891,"Jalan Green Lake City Rukan Amerika Latin Colombus A 21, RT.002/RW.009 Petir, Kec. Cipondoh, Banten, Daerah Khusus Ibukota Jakarta, Kota Tangerang, Banten 15147",0.09988088887087276,0.386510906296083,1,1,1,1,1,257
+MaMit's Laundry - Workshop,081234567891,"Perumahan Permata, Raya, Jl. Raya Regency II No.43, Kabupaten Tangerang, Banten 15560",0.09649204876209105,0.38585553975754383,0,0,1,1,0,258
+Nell_clean Laundry,081234567891,"7 15334 Banten, Tangerang, Medang, Pagedangan, Tangerang Regency, Banten 15334",0.10057787537016372,0.38215405435068206,1,1,1,0,1,259
+Laundrys.id,081234567891,"Jalan Citra Raya Boulevard Ruko Rembrandt Blok R1 No 49R Mekar Bakti Panongan, Kabupaten Tangerang, Banten 15710",0.09846682876300317,0.3843541589326813,1,0,0,0,1,260
+Ayo Laundry Magnolia,081234567891,"Jl. Kp. Klp. Lilin No.1, RT.1/RW.3, Kelapa Dua, Tangerang Regency, Banten 15810",0.1043351601141671,0.3800034599919,0,0,0,0,1,261
+Laundry Pagi Bintaro,081234567891,"Jl. Bahagia No.70, RT.002/RW.002, Pasar Anyar, Kec. Tangerang, Kota Tangerang, Banten 15111",0.10084923231049525,0.3851344457743098,0,0,1,0,0,262
+Laundry Oke Clean dan Perlengkapan Laundry,081234567891,"Jl. Nusa Indah Blk. E 29 No.29, RT.003/RW.008, Pedurenan, Karang Tengah, Tangerang City, Banten 15157",0.09861721063523754,0.37908179713715473,1,0,0,1,1,263
+DEPO Laundry,081234567891,"RJ2V+MC2 Laundry, Jl. Modern Golf Raya, RT.001/RW.006, Klp. Indah, Kec. Tangerang, Kota Tangerang, Banten 15117",0.10133946635608249,0.38231312621429403,0,0,0,0,1,264
+Laundry A & A,081234567891,"Jl. Bintaro Utama 3A, Pondok Karya, Pondok Aren, South Tangerang City, Banten 15224",0.10322439726004584,0.38108538715301243,0,0,1,0,0,265
+Sabia Laundry Care Expert (Drop Point - BPV),081234567891,"Jalan Komodo I Jl. Besi Raya No.6, Cibodas Baru, Kec. Cibodas, Kota Tangerang, Banten 15138",0.09924298742727922,0.38869212258483277,0,0,1,0,0,266
+Priska Laundry Kiloan - Ruko Banjar Wijaya Blok B,081234567891,"Jln.Hartono Raya ,Apt.Modernland-Tower Kuning/1DJ, RT.001/RW.006, Klp. Indah, Kec. Tangerang, Kota Tangerang, Banten 15117",0.10538059462186644,0.3838602968409752,0,0,0,1,0,267
+KC Laundry SP,081234567891,"Jalan Nn No.18, RT.6/RW.001, Bencongan Indah, Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810",0.1070808507958475,0.3828274506236875,1,1,1,1,0,268
+Alondrian Laundry Kiloan,081234567891,"Jl. Perintis Kemerdekaan No.1, RT.001/RW.002, Cikokol, Kec. Tangerang, Kota Tangerang, Banten 15117",0.10538566164042551,0.38274932177433385,1,1,1,1,1,269
+Wash Dee Dry Clean & Laundry Service,081234567891,"RJ8X+3MF Laundry Keluarga, RT.001/RW.004, Buaran Indah, Kec. Tangerang, Kota Tangerang, Banten 15119",0.10580224295195806,0.3811097606829392,0,1,0,0,0,270
+Lautan Laundry & Dry Clean,081234567891,"Jl. Bintaro Utama 5 No.95, Pondok Ranji, Ciputat Timur, South Tangerang City, Banten 15412",0.10114900074774713,0.38241286212638226,1,1,1,0,1,271
+House Of Laundry Frankleenz,081234567891,"CITY, Jl. Ciater Bar. Jl. Komp. Bsd No.62, Rawa Buntu, Serpong Sub-District, South Tangerang City, Banten 15310",0.10160286083867831,0.3826052269917328,0,0,1,0,0,272
+D'Bros Laundry,081234567891,"Perumahan Villa Japos Blok N 1 Nomer 40 dan 41, Banten, RT.001/RW.014, Paninggilan, Tangerang, Kota Tangerang, Banten 15152",0.10188181830684839,0.37957251117998503,0,0,1,1,0,273
+MR Klin Laundry Gading Serpong,081234567891,"Jl. Titihan HF 11 No.8, Jombang, Ciputat, South Tangerang City, Banten 15228",0.09864761274659184,0.3825824751839546,0,0,1,1,1,274
+Wash Dee Dry Clean & Laundry Services,081234567891,"Kelapa Dua, Tangerang Regency, Banten 15810",0.10478594380097328,0.3818074827881617,1,1,1,1,1,275
+WF LAUNDRY,081234567891,"Blok V6, Jl. Melati Mas Vista Boulevard Melati Mas Vista No.20, Jelupang, Serpong Utara, South Tangerang City, Banten 15323",0.1004797018855823,0.3836542427327885,1,0,1,1,0,276
+Biwos Laundry,081234567891,"Magnolia Residence No.C-6, Jatake, Jatiuwung, Tangerang City, Banten 15136",0.11218360993222498,0.3798405246137593,1,0,1,1,0,277
+aQualis Laundry & Green Dry Clean - Cirendeu,081234567891,"Viola Residence E09, Jl. Boulevard Graha Raya Selatan, Paku Jaya, Kec. Serpong Utara, Kota Tangerang, Banten 15234",0.09366012828243264,0.3891425320625199,1,0,0,0,0,278
+Marc's Laundry Cipondoh,081234567891,"RMH6+XJQ Laundry, Gg. Sawo 3, RT.003/RW.007, Poris Plawad, Kec. Cipondoh, Kota Tangerang, Banten 15141",0.1061670682882091,0.3847758066911009,0,1,0,0,0,279
+Alsonz Laundry - Funtastico,081234567891,"JL Raya PLP Curug, Km. 5, Curug, Curug Wetan, Tangerang, Kabupaten Tangerang, Banten 15810",0.09791307602047938,0.38578003428225216,1,1,1,1,1,280
+Laundry Express Murah (Coin Laundry),081234567891,"Jl. Dayung Raya No.39, RT.6/RW.6, Kelapa Dua, Tangerang, Tangerang Regency, Banten 15810",0.10153961358916463,0.3819215280133186,0,0,1,0,0,281
+Terrace Laundry & Eyelash,081234567891,"Jl.Roro jongrang Raya Blok A 5 Rt.006/04, Kel.Bencongan Kec.Kelapa Dua, Perumnas 2 Ruko Taman Borobudur 1, karawaci Tangerang, Bencongan Indah, Kec. Klp. Dua, Kabupaten Tangerang, Banten 15138",0.10385469817580095,0.38164135166343627,0,1,0,1,1,282
+Laundry DA,081234567891,"Apt. Bintaro Park View Tower A, Jl. Bintaro Permai No.5, Daerah Khusus Ibukota Jakarta 12320",0.10755841729503723,0.3796828836814541,1,1,1,0,1,283
+Laundry Stroller Jakarta (CItra Garden 2 ext Be 2 No. 31),081234567891,"Ruko Banjar Wijaya Blok B, Jl. Wijaya Kusuma Blok B1 No.3, RT.003/RW.010, Poris Plawad Indah, Kec. Cipondoh, Kota Tangerang, Banten 15141",0.11066766655832894,0.38562544600340143,0,0,1,0,0,284
+Hey Clean Laundry Cabang 3,081234567891,"Jl. Siswa Dalam No.56a, RT.003/RW.003, Sukaasih, Tangerang, Tangerang City, Banten 15111",0.10288291640215619,0.3804452361840358,1,1,1,1,1,285
+Pulito Laundry,081234567891,"Jalan Perintis Kemerdekaan No:3, RT.004/RW.003, Babakan, Kec. Tangerang, Kota Tangerang, Banten 15118",0.09739705446972557,0.38588358601115846,0,1,0,0,0,286
+CLARIS LAUNDRY,081234567891,"RJ72+P3M Wash Dee Dry Clean & Laundry Service, Jl. Darma Wangsa, RT.001/RW.008, Cibodas, Kec. Cibodas, Kota Tangerang, Banten 15138",0.10309111657544823,0.3827425010017711,1,1,1,0,1,287
+frando mesin loundry,081234567891,"Ruko Sektor 1G, Jl. Klp. Gading Sel. Blok AK 1 No.11, West Pakulonan, Kelapa Dua, Tangerang Regency, Banten 15810",0.09414583820430644,0.3875056897406086,1,1,1,1,1,288
+Cemerlang Dry Clean & Laundry,081234567891,"Gading Serpo g, Ruko Odessa, Jl. Klp. Puan Raya No.25, Pakulonan Bar., Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810",0.10416722464192463,0.38134791535011026,0,0,1,0,1,289
+ATACLEAN Laundry Service,081234567891,"Tataka Puri, Blok J-10/10 Bitung, Curug, Kadu, Tangerang, Kabupaten Tangerang, Banten 15810",0.09654715258892066,0.3805792667497778,1,0,1,1,1,290
+Jnr Laundry Services,081234567891,"Ruko South Sorrento No 11, Jalan Ir Soekarno, Gading, Kec. Serpong, Kabupaten Tangerang, Banten 15310",0.0992917574809099,0.3854336535105727,0,0,0,1,0,291
+Flazz Laundry,081234567891,"Beringin Blok 46 No 1 Perumnas I, RT.001/RW.007, Nusa Jaya, Kec. Karawaci, Kota Tangerang, Banten 15116",0.10205527321002128,0.3814414982575789,1,1,1,0,1,292
+Triton Building | Distributor Mesin Laundry,081234567891,"Cipondoh, Kec. Cipondoh, Kota Tangerang, Banten",0.0991727730272467,0.38201601717728106,0,1,1,0,1,293
+LAUNDRY BERSIH,081234567891,"Jl. Nn No.35, RT.1/RW.4, Pakulonan, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15325",0.10647308001618538,0.3813699993899462,1,1,1,1,1,294
+Nice Laundy,081234567891,"Jl. Raya Mauk KM.11, Sepatan, Tangerang Regency, Banten 15520",0.10959155849185254,0.38255523979141426,1,1,1,1,1,295
+Clean & Tidy Laundry,081234567891,"Jl. Raya Cirendeu No.69C, Pisangan, Kec. Ciputat Tim., Kota Tangerang Selatan, Banten 15419",0.09504631978822753,0.38704717165218216,0,0,0,1,0,296
+Nay Laundry & Dry Cleaning,081234567891,"Jl. Maulana Hasanudin No.58 B, RT.001/RW.003, Cipondoh Makmur, Cipondoh, Tangerang City, Banten 15148",0.10401412829546208,0.3811011273973879,1,1,1,1,1,297
+Delta Mas Laundry & Dry Cleaning,081234567891,"Jl Bintaro Boulevard Jaya Kav. Komersial Bintaro Jaya Blok CE/B 05-06, Parigi, Pondok Aren, South Tangerang City, Banten",0.10742006959188055,0.3803163092732884,1,0,0,0,1,298
+Rs Laundry & Dry Cleaning,081234567891,"Jl. Kelapa Dua Raya No.92, Klp. Dua, Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810",0.10608183379744807,0.38311468623468414,1,1,1,1,1,299
+"Cosmo Laundry BSD, PickUp and Deliver",081234567891,"Jl. Cemara Raya No.23B, RT.003/RW.021, Cibodasari, Kec. Cibodas, Kota Tangerang, Banten 15138",0.09389303017119999,0.38342701084125963,0,0,1,0,0,300
+Wielza Laundry,081234567891,"Jl. Perum Villa Permata Blok FC12 No.6, Gelam Jaya, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560",0.10674344164929994,0.3827466030048505,1,0,1,0,0,301
+Alzio Laundry,081234567891,"Citra Garden 2 Extension Blok BE2 No. 31, RT.3/RW.20, Pegadungan, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11839",0.09040719285000243,0.3877548625788423,0,0,0,1,0,302
+Claris Laundry & Dry Clean,081234567891,"Jl. Amd Raya No.113, Gandasari, Jatiuwung, Tangerang City, Banten 15810",0.10300307712798484,0.3826829265616958,1,1,1,1,1,303
+Wash Dëë Dry Clean & Laundry Service,081234567891,"PPC2+H4C Pulito Laundry, Jl. Emeralda Vista, Parigi, Pondok Aren, South Tangerang City, Banten 15227",0.10299927686406551,0.38052832559525385,1,0,0,0,0,304
+Kacida Laundry,081234567891,"QJMM+QQ3 CLARIS LAUNDRY, Kebon Nanas Penunggangan, Jl. Sekneg Raya, RT.009/RW.001, Panunggangan Utara, Kec. Tangerang, Kota Tangerang, Banten 15143",0.09102039257812067,0.3859518891322056,0,0,1,0,0,305
+ATACLEAN LAUNDRY DROP POINT,081234567891,"Jl. Aria Putra No.70, Kedaung, Pamulang, South Tangerang City, Banten 15415",0.09800699682877023,0.3810719840964385,0,0,0,0,1,306
+Loundry STAR,081234567891,"Jl. Pajajaran Raya No.130, RT.2/RW.24, Bencongan Indah, Kec. Klp. Dua, Kabupaten Tangerang, Banten 15138",0.10597244048605725,0.38406954669574844,1,1,1,1,1,307
+Master Clean,081234567891,"QJW4+G33 Cemerlang Dry Clean & Laundry, Jl. Empu Gandring, RT.001/RW.009, Cibodas Baru, Kec. Cibodas, Kota Tangerang, Banten 15138",0.09600208616392669,0.38207349291810644,1,1,0,1,1,308
+Star Klin Laundry & Dry Cleaning,081234567891,"Legok, Tangerang Regency, Banten 15820",0.10538774273733365,0.38113642370295686,1,1,0,0,0,309
+Supermarket Laundry Indonesia,081234567891,"Jl. Masjid Nurul Ikhwan No.9, Pd. Kacang Tim., Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15226",0.09943119097375785,0.3835426777885642,0,1,1,1,0,310
+Laundry Mart - Coin Laundry Palembang,081234567891,"Jl. Boulevard Palem Raya No. 105 Lippo Karawaci 1200 Curug Neglasari Tangerang Banten, Bencongan, Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810",0.396640512405871,0.2929782722143619,0,0,1,0,0,311
+Hepi Klin Laundry,081234567891,"Bolevard Gading Serpong Kav. S18, Pakulonan Bar., Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810",0.3951905307557168,0.29271226208441714,0,1,1,1,1,312
+Pink Fresh Laundry,081234567891,"RM48+WPX Laundry, Jl. Perumahan Alam Indah, Poris Plawad Indah, Kec. Cipondoh, Kota Tangerang, Banten 15122",0.39693774733384335,0.2923940706594834,1,1,0,0,1,313
+YellowClean Laundry,081234567891,"Jl. Raya Bugel No.10, RT.001/RW.002, Bugel, Kec. Karawaci, Kota Tangerang, Banten 15113",0.4010237549068645,0.2914184616944695,1,0,1,0,0,314
+Bali Laundry Palembang,081234567891,"apartement aeropolis CWK 6 jalan suryadharma kel, RT.002/RW.007, Neglasari, Tangerang City, Banten 15127",0.3964357505666012,0.2931893822798335,1,1,1,1,0,315
+5asec Palembang,081234567891,"Komplek Bintaro Hill E7, Jl. Merpati Raya, Sawah Baru, Kec. Ciputat, Kota Tangerang Selatan, Banten 15413",0.39636707436863133,0.2924234047512737,1,1,0,1,1,316
+Anugrah 3113 Laundry,081234567891,"Jl. Pd. Serut 1 No.44, RT.7/RW.3, West Pondok Kacang, Pondok Aren, South Tangerang City, Banten 15226",0.400156480391,0.29225007127230285,0,0,0,1,1,317
+Speedy Coin Laundry,081234567891,"QHVX+RXQ Nay Laundry & Dry Cleaning, Jl. Prabu Siliwangi, RT.004/RW.016, Cibodas Baru, Kec. Cibodas, Kota Tangerang, Banten 15138",0.3964019101212247,0.29318947767525305,0,0,0,1,0,318
+C Laundry Kiloan Palembang,081234567891,"RHJM+VCM Delta Mas Laundry & Dry Cleaning, Jl. Kendal, RT.010/RW.007, Gembor, Kec. Periuk, Kota Tangerang, Banten 15133",0.4011242809357769,0.2912278139466862,0,1,1,0,0,319
+Seventeen Laundry,081234567891,"RJ8R+XVG Rs Laundry & Dry Cleaning, Jl. Eksekusi Raya, RT.004/RW.013, Sukasari, Kec. Tangerang, Kota Tangerang, Banten 15118",0.39642796907381406,0.2926551202275638,0,1,1,1,0,320
+Vidy Laundry,081234567891,"Ruko The ICON Blok M No 9 Cisauk Lapan BSD City, Jl. Raya Cisauk Lapan No.A2/10, Sampora, Kec. Cisauk, Kabupaten Tangerang, Banten 15345",0.3996658844155157,0.28997436581959235,0,0,0,0,1,321
+Pamela Laundry,081234567891,"Nomor Suka Rasa Tangerang, Jl. Jend. Ahmad Yani No.14, RT.001/RW.002, Sukarasa, Kec. Tangerang, Kota Tangerang, Banten 15111",0.39588326457871714,0.29387088716357734,1,0,0,0,1,322
+MAU Laundry,081234567891,"Jl. Pinang Raya No.26, East Pamulang, Pamulang, South Tangerang City, Banten 15417",0.3938062393818816,0.2927950653093738,1,1,1,1,1,323
+Citra Bersih Laundry Palembang,081234567891,"QJMM+977 Claris Laundry & Dry Clean, Jl. Sekneg Raya, RT.009/RW.001, Panunggangan Utara, Kec. Pinang, Kota Tangerang, Banten 15143",0.3973289935525807,0.29226986582204795,0,0,0,1,1,324
+ORY Laundry,081234567891,"QHMQ+85X Wash Dëë Dry Clean & Laundry Service, Jl. Amd Raya, RT.002/RW.004, Gandasari, Kec. Jatiuwung, Kota Tangerang, Banten 15137",0.4000184946177404,0.2912234257573454,1,1,1,0,1,325
+Luqman Laundry Service,081234567891,"Ruko Terrace Park Residence No A16, Jl. Amd. Babakan Pocis, Kota Tangerang Selatan, Banten 15315",0.39522446168356745,0.2925374976741404,0,0,0,1,0,326
+LAUNDRY 4U PAMULANG,081234567891,"PHHX+7QC ATACLEAN LAUNDRY DROP POINT, Jl. Raya Legok - Karawaci, Medang, Pagedangan, Tangerang Regency, Banten",0.09189463424450384,0.38789199349574854,0,1,0,1,1,327
+M Laundry Palembang,081234567891,"Jl. Puri No.58, RT.005/RW.002, Poris Plawad Utara, Kec. Cipondoh, Kota Tangerang, Banten 15141",0.3984730539572328,0.2930576889018921,1,0,0,0,1,328
+The Daily Wash Laundromat Palembang,081234567891,"QMHP+H84 Laundry, Kontrakan Lotus, Jl. H. Jimol, Kota Tangerang, Banten",0.3967431195316916,0.29305678264539736,1,1,1,1,1,329
+Perkilo Premium Laundry & Dry Clean Palembang,081234567891,"Vanya Park Lakeside, Jl. BSD Raya Pusat No.3, Pagedangan, Tangerang Regency, Banten 15336",0.3955583420136186,0.29259855074323227,1,1,1,0,1,330
+Alfarizky Laundry,081234567891,"RJ52+W75 Star Klin Laundry & Dry Cleaning, Jl. Dipati Ukur, RT.001/RW.001, Cibodas, Kec. Cibodas, Kota Tangerang, Banten 15138",0.08746949835792395,0.3898518924090384,0,1,0,0,0,331
+Klinn Laundry,081234567891,"Km 8 No, Jl. Raya Serpong Kilometer 7 No.7, Pd. Jagung, Kec. Serpong Utara, Banten 15326",0.08922413449894062,0.3924041968833647,0,1,1,1,1,332
+BannaWash Laundry Express Beji Depok,081234567891,"Jl. Mayor Salim Batubara, Sekip Jaya, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30114",0.08897747927408439,0.39141556644345865,1,1,0,1,0,333
+Simply Fresh Laundry 277 Palembang,081234567891,"Jl. KH. Ahmad Dahlan, 26 Ilir, Bukit Kecil, Palembang City, South Sumatra 30135",0.39687947662041434,0.2923998420824203,0,0,1,1,1,334
+Laundry Buih,081234567891,"Jl. Trikora No.2245, 20 Ilir D. III, Ilir Timur I, Palembang City, South Sumatra 30151",0.08985714988892368,0.3922025786622285,0,1,0,1,1,335
+The Daily Wash - Depok,081234567891,"Jl. Perindustrian 2 No.1376, Kebun Bunga, Kec. Sukarami, Kota Palembang, Sumatera Selatan 30961",0.0878069979869458,0.3916176616416971,1,0,1,1,1,336
+MaXpress Coin Laundry,081234567891,"Jl. Mayor Ruslan No.846-1900, 20 Ilir D. I, Ilir Timur I, Palembang City, South Sumatra 30126",0.08682960629989644,0.38938125910221366,1,1,1,1,1,337
+WN Laundry,081234567891,"Jl. Angkatan 45 No.26, Lorok Pakjo, Ilir Barat I, Palembang City, South Sumatra 30137",0.08805464851901901,0.39130958213133127,0,1,0,0,1,338
+Aldefa Laundry,081234567891,"Jl. Sukabangun II No.1868, Sukajaya, Kec. Sukarami, Kota Palembang, Sumatera Selatan 30961",0.08581357859633454,0.38947870552421016,0,1,1,1,1,339
+NISA LAUNDRY DEPOK,081234567891,"Bali Laundry Palembang, sebrang, Jl. Mayor Ruslan No.846-1900, Kota Palembang, Sumatera Selatan 30126",0.08966387932388598,0.39288408354597326,1,0,0,0,0,340
+Laundry LAB,081234567891,"Jl. Kebun Bunga, Kebun Bunga, Kec. Sukarami, Kota Palembang, Sumatera Selatan 30152",0.08993758880854841,0.3922703094107538,1,0,1,0,1,341
+NEFA Laundry Expert & Dry Cleaning,081234567891,"Jl. Papera, Sungai Pangeran, Ilir Timur I, Palembang City, South Sumatra 30121",0.09382118708663079,0.38977595765435424,0,1,0,0,0,342
+Laundry Project,081234567891,"Sentraland residence ruko sentraland 21, Talang Klp., Kec. Alang-Alang Lebar, Kota Palembang, Sumatera Selatan 30961",0.08887668179774921,0.3932673823453703,0,1,0,0,0,343
+New! Hixie Laundry,081234567891,"Jl. Dr. M. Isa No.858, Kuto Batu, Kec. Ilir Tim. II, Kota Palembang, Sumatera Selatan 30114",0.09005413023540643,0.39226329784735015,0,0,1,1,1,344
+CleanYours Laundry,081234567891,"XPWX+XFC MAU Laundry, Jl. Pangeran Sido Ing Lautan, 32 Ilir, Kec. Ilir Bar. II, Kota Palembang, Sumatera Selatan 30125",0.08928602451134027,0.39152193233726784,0,0,0,0,1,345
+Laundry The Daily Wash Limo,081234567891,"Lrg. Ikrar No.2017, RT.27/RW.09, 20 Ilir D. IV, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30128",0.08938437896087026,0.38943200946589673,1,1,1,1,1,346
+D' OYO Coin Laundry,081234567891,"3P88+97V ORY Laundry, Jl. Komp. Bougenville Jl. HBR Motik, Karya Baru, Kec. Alang-Alang Lebar, Kota Palembang, Sumatera Selatan 30152",0.08845231899342942,0.3880601279243052,1,1,1,1,1,347
+lokit laundry,081234567891,"Jl. Puncak Sekuning No.709, 26 Ilir D. I, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30136",0.08581357859633454,0.39394631155276194,1,1,1,1,1,348
+Clothes Laundry Depok,081234567891,"Komplek, Jalan Bukit Pamulang Indah No.10, Kec. Pamulang, Kota Tangerang Selatan, Banten 15417",0.08849756023056377,0.393191304497555,1,0,1,0,1,349
+Cc Laundromart,081234567891,"Sekip, Ujung, Jl. Angkatan 66 No.52, Pipa Jaya, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30164",0.08320406403842817,0.3918685038997882,1,1,1,1,1,350
+Laundry 72,081234567891,"Jl. Mayor Salim Batubara No.5916, RT.032, 20 Ilir D. I, Ilir Timur I, Palembang City, South Sumatra 30126",0.0887417724286147,0.3906839312662642,0,1,0,1,0,351
+Laundromate Laundry,081234567891,"Jl. Kapten A. Rivai No.260 D, 26 Ilir D. I, Ilir Barat I, Palembang City, South Sumatra 30135",0.08892246592972908,0.3921390930099147,0,0,1,1,0,352
+O'Clean Laundry,081234567891,"Jl. Samudra Jaya, RT.02/RW.02, Rangkapan Jaya, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16435",0.08737213921561104,0.3919639470179561,1,1,1,1,1,353
+Tulip Laundry,081234567891,"Jl. H. M. Tohir No.8, Pondok Cina, Beji, Depok City, West Java 16424",0.09005974014881102,0.3929136561263151,1,1,1,1,1,354
+YA Laundry,081234567891,"Jl. M.H. Sanim No.8A, RW.07, Kukusan, Beji, Depok City, West Java 16425",0.08952933188464851,0.3916380285639649,1,1,1,1,0,355
+Cucimari Laundry,081234567891,"Jl. Dwikora II No.1168C, Demang Lebar Daun, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30151",0.08737602996200455,0.3912318825613692,0,1,0,0,0,356
+Laundry Cafe,081234567891,"Dekat Stasiun Universitas Indonesia, Jl. Sawo No.35, Pondok Cina, Beji, Depok City, West Java 16424",0.08999395939001775,0.39219079732780227,1,1,0,1,1,357
+KiLaundry,081234567891,"Jl. Ridwan Rais No.4B, East Beji, Beji, Depok City, West Java 16422",0.0892802336329871,0.3909020051974288,0,0,0,1,0,358
+Poetri Laundry,081234567891,"Jl. Raya Sawangan No.17 C, Rangkapan Jaya Baru, Pancoran Mas, Depok City, West Java 16434",0.08996084280443539,0.3926899061676332,1,0,0,0,0,359
+Perlengkapan Laundry Depok,081234567891,"Jl. Nusantara Raya No.246, RT.5/RW.6, Beji, depok utara, Kota Depok, Jawa Barat 16421",0.08801664587982616,0.39134049024755857,1,1,1,1,1,360
+DAR LAUNDRY,081234567891,"Jalan Raya pasir Putih, Ruko Sawangan Permai No.24, RT.2/RW.9, Sawangan Baru, Kec. Sawangan, Kota Depok, Jawa Barat 16511",0.08970323920019274,0.39333673481604237,1,1,1,1,1,361
+The Laundream Laundry Service,081234567891,"Komplek Timah Blok BB No. 18, RT.4/RW.12, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",0.089654107216665,0.3922013862194733,1,0,0,0,1,362
+Rama Laundromat DMall,081234567891,"Jl. Kober No.40, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",0.08762992378480217,0.39189793338699985,0,0,1,1,0,363
+Deandra Laundry,081234567891,"ONE COMM, Jl. Cinere Raya No.12, Pangkalan Jati, DEPOK, Kota Depok, Jawa Barat 16514",0.08713407982581034,0.3923834006817053,0,1,1,1,1,364
+LAUNDRESS CLEAN,081234567891,"Jl. Raya Duta Pelni No.28-19, Tugu, Cimanggis, Depok City, West Java 16451",0.08703590634122893,0.39450647346168566,1,0,0,0,0,365
+DeALL LAUNDRY (Sehari Jadi 7rb/Kg) Gratis antar jemput se Kukusan Depok,081234567891,"Gg. Mangga Jl. Kober No.11, Pondok Cina, Beji, Depok City, West Java 16424",0.08950888284546377,0.3913708736889747,1,1,1,1,1,366
+D'DAILY LAUNDRY,081234567891,"JRJ9+P9H CleanYours Laundry, Jl. Palakali, Kukusan, Beji, Depok City, West Java 16425",0.0867125219781929,0.3908770592949793,1,1,1,0,1,367
+Laundry Que,081234567891,"Jl. Limo Raya No.1, RW.2, Limo, Kec. Limo, Kota Depok, Jawa Barat 16514",0.09013565494472242,0.3921874107903758,0,1,1,1,0,368
+Laundry Indonesia,081234567891,"Jalan Raya Cinangka No.62 KM31 Depan Honda Prada Sawangan Samping TB Parung Baja, Kedaung, Kec. Sawangan, Kota Depok, Jawa Barat 16516",0.08913582360405436,0.3946366882106096,0,1,1,0,0,369
+Laundry & dry cleaning service,081234567891,"Jl. Cempedak 2 No.6, Sukamaju Baru, Tapos, Depok City, West Java 16455",0.08774718907145429,0.39066642620660996,1,1,0,0,1,370
+COFFE LAUNDRY (COIN),081234567891,"Jl. Gama Setia Raya, Bakti Jaya, Sukmajaya, Depok City, West Java 16418",0.08555995622095958,0.39144547290777165,1,1,1,1,1,371
+Wetklin,081234567891,"Jl. Boulevard Grand Depok City, Kalibaru, Cilodong, Depok City, West Java 16413",0.040135673041217235,0.4296061690692081,0,1,1,1,1,372
+23Quicklaundry Coin Laundry,081234567891,"Jl. R. Sanim No.69D, RT.04/RW.11, Tanah Baru, Kecamatan Beji, Kota Depok, Jawa Barat 16426",0.036539899513783336,0.43194392924292746,0,1,1,1,1,373
+Hade Laundry,081234567891,"Depok Town Square Blok.GS 31. 8, Jl. Margonda No.1, Kemiri Muka, Kecamatan Beji, Kota Depok, Jawa Barat 16424",0.03807312504026461,0.43008667580205007,1,1,1,1,0,374
+Laundry Cuci Kiloan D'billaz Bandung,081234567891,"Jl. STM Mandiri No.46, Kemiri Muka, Beji, Depok City, West Java 16423",0.03887570458702705,0.43064039852009195,1,1,1,0,1,375
+Urban Laundry & Dry Cleaning,081234567891,"ruko kelapa dua residence, Jl. Tugu Raya, RT.11/RW.07, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",0.042577342609355195,0.42942692107416924,1,0,0,0,0,376
+Chingu Laundry Dipatiukur (Laundry Antar Jemput Bandung),081234567891,"Jl. Kabel No.4, RT.04/RW.5, Kukusan, Kecamatan Beji, Kota Depok, Jawa Barat 16421",0.04202404227920287,0.4296077907913558,1,0,1,1,0,377
+Three Brothers Laundry - Ciumbuleuit Bandung Utara (RS Al Salamun cuci kiloan satuan bersih wangi antar jemput),081234567891,"Perumnas Depok 1 Jalan Leli 4, Ruko No. 44B, Depok Jaya, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16432",0.04446607377723788,0.4290392817831421,1,1,1,1,1,378
+Washlab Laundry,081234567891,"Jl. Margonda Blok Pepaya No.525, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",0.041855201982217594,0.4290359429434263,0,1,0,1,0,379
+Home Laundry Cuci Karpet 3 Day Service,081234567891,"Jl. Perdamaian No.12, RT.03/RW.06, Tanah Baru, Kecamatan Beji, Kota Depok, Jawa Barat 16426",0.0421651044565875,0.43022666858157077,1,1,1,0,0,380
+Laundry Sendiri,081234567891,"JRQV+P54 Poetri Laundry, Jl. Poncol, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",0.036019534804264564,0.4315009129103249,0,0,1,0,1,381
+Laundry Area,081234567891,"JR97+4V7 Perlengkapan Laundry Depok, Jl. H. Muslih, Beji, Kecamatan Beji, Kota Depok, Jawa Barat 16421",0.03562973630511557,0.4309239137096901,0,0,1,0,0,382
+Laundry Club Gegerkalong (Laundry Antar Jemput),081234567891,"Jl. H. Nipan, Tugu, Monas, Depok City, West Java 13112",0.0440232525481673,0.428064388283782,0,0,1,0,1,383
+"Moke Laundry Samoja (Layanan Antar Jemput, Dryclean, Express)",081234567891,"Jl. Cengkeh No.21, RT.4/RW.7, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",0.039226776587189205,0.430077136260004,1,0,1,1,1,384
+LAUNDRY IN,081234567891,"Mall Depok, Ruko Jl. Margonda No.88, Kemiri Muka, Kecamatan Beji, Kota Depok, Jawa Barat 16436",0.037909080314415755,0.4303353239654708,0,0,1,0,0,385
+Citra Dry Clean & Laundry,081234567891,"Jl. Cakalele I No.104, Mekar Jaya, Sukmajaya, Depok City, West Java 16411",0.039802516570960234,0.4277189137685973,0,0,0,0,1,386
+Cuci Kiloan Bandung,081234567891,"Graha LAVATRICE, Jl.Dongkal No.Raya 147, Sukatani, Kec. Tapos, Kota Depok, Jawa Barat 16461",0.038754458071507125,0.4305784391945062,1,1,1,1,1,387
+Sorcha Laundry Kosambi (Laundry Antar Jemput Bandung),081234567891,"Jl. Kh. Ahmad Dahlan No.6, RT.01/RW.6, Kukusan, Beji, Depok City, West Java 16425",0.039210942154192185,0.43007284346608365,1,1,1,1,1,388
+Laundry Express Bandung,081234567891,"JR33+8XW D'DAILY LAUNDRY, Komp. Universitas Indonesia Jl. Raya Sawangan, Pancoran MAS, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16436",0.03886511813753768,0.4292133307277668,0,1,0,0,0,389
+LaundryKlin Cihampelas (Laundry Antar Jemput Bandung),081234567891,"Jl. Margonda No.533, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",0.04225413921126775,0.42898051820414107,1,0,0,0,1,390
+Chingu Laundry Antapani,081234567891,"Jl. Radar Auri No.48, RT.7/RW.14, 11, Depok, Cimanggis, Depok City, West Java 16454",0.03958599201003554,0.4316329401722374,1,1,1,1,1,391
+Amala Express Laundry & Wet Cleaning,081234567891,"Jl. Mampang Bojong, Mampang, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16433",0.04033672509904207,0.42927090186401173,0,0,1,1,0,392
+Hade Laundry Simpang Dago,081234567891,"CITAYAM, Jl. Raya Citayam No.38H, Depok, Pancoran Mas, Depok City, West Java 16431",0.042482878906218824,0.42946231277515867,1,1,1,1,1,393
+Kingwash Laundry,081234567891,"Jl. Belitung No.3, Merdeka, Bandung, Bandung City, West Java 40113",0.042192611128765156,0.4295973449928159,0,1,1,0,1,394
+Sorcha Laundry Pajajaran (Laundry Antar Jemput Bandung),081234567891,"Jl. Saturnus Tengah II No.23, Manjahlega, Kec. Rancasari, Kota Bandung, Jawa Barat 40286",0.040431550732075494,0.42834790347338014,1,1,1,0,0,395
+Laundry Satuan-Laundry Kiloan-Laundry Express-Laundry Antar Jemput | Green Garden Laundry,081234567891,"Jl. Maskumambang No.11, Turangga, Bandung, Bandung City, West Java 40264",0.04025827679385119,0.42854332099218695,1,1,1,0,1,396
+Fresh Clean Laundry Bandung,081234567891,"Jl. Maleer Indah III No.40, Maleer, Batununggal, Bandung City, West Java 40274",0.03559453862262496,0.43156630647104777,1,1,0,1,1,397
+Chingu Laundry Express,081234567891,"Jl. Cisitu Baru No.1, Dago, Coblong, Bandung City, West Java 40135",0.042149903400910405,0.4288636588140813,0,0,0,0,1,398
+SANY LAUNDRY PUSAT,081234567891,"Jl. Maleer Indah III No.40, Maleer, Batununggal, Bandung City, West Java 40274",0.03875482000140429,0.4343924434997968,0,1,1,1,1,399
+Wahs Laundry,081234567891,"Sebrang Citi Trans, Jl. Dipati Ukur No.68, Lebak Gede, Coblong, Bandung City, West Java 40132",0.042303995054589816,0.42802198501938893,1,1,1,1,0,400
+Waroenk Laundry Tubagus Ismail,081234567891,"Jl. Ciumbuleuit No.25, Ciumbuleuit, Cidadap, Bandung City, West Java 40142",0.04250667579695144,0.4296204306845661,0,0,0,1,0,401
+LAUNDRY FAMILY,081234567891,"Depan Alfa Express, Washlab Laundry Tower B, Washlab Smart Laundry, The Jarrdin Apartment Cihampelas, Kota Bandung, Jawa Barat 40131",0.0399266585256568,0.4285665497770683,0,0,0,0,1,402
+Roemah Laundry,081234567891,"Jl. Cigadung Raya Timur No.65, Cigadung, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40191",0.03549238390917575,0.4302553826031277,0,0,0,1,0,403
+Raundry Laundry,081234567891,"Jl. Margasari No.28, Margasari, Buahbatu, Bandung City, West Java 40287",0.03639720865186169,0.4306442143369109,0,0,0,0,1,404
+Eighteen laundry (Inhoftank),081234567891,"Jl. Logam No.61, Kujangsari, Bandung Kidul, Bandung City, West Java 40287",0.037329178136828234,0.42895700323299835,1,0,0,0,1,405
+LAUNDRY 101,081234567891,"Jl. Gegerkalong Hilir No.133, Sukarasa, Sukasari, Bandung City, West Java 40152",0.04087943897970503,0.4311137982941107,0,0,1,0,0,406
+RN Laundry & Dry Cleaning,081234567891,"Asrama Polisi, Samoja, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",0.04389042427594103,0.4305533978966354,1,1,1,1,1,407
+I LAUNDRY,081234567891,"OSA Quarter, Jl. Reog No.6a, Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat 40264",0.03844175064043487,0.4342842650929981,0,0,1,1,0,408
+"Sepertibaru Laundry - Laundry Antar Jemput - ( Laundry Kiloan , Laundry Satuan , Laundry Sepatu , Laundry Helm , Cuci Helm )",081234567891,"Jalan Jend Sudirman Gg Irsad No. 2 A, Garuda, Andir, Garuda, Kec. Andir, Kota Bandung, Jawa Barat 40241",0.04223658561125976,0.43130415985563264,1,1,0,1,1,409
+M Laundry,081234567891,"Jl. Maleer Indah I Jl. Gatot Subroto No.17, Maleer, Kec. Batununggal, Kota Bandung, Jawa Barat 40274",0.04180317455951321,0.43027923145824243,0,1,1,1,0,410
+Laundry Bandung,081234567891,"Jl. Samoja No.8, Samoja, Batununggal, Bandung City, West Java 40273",0.039334269766620356,0.42938432701893525,1,0,0,0,0,411
+Oxy Laundry Ciumbuleuit,081234567891,"Jl. Pasundan No.58, Balonggede, Regol, Bandung City, West Java 40251",0.04352378929020473,0.42900885064401617,1,0,0,1,0,412
+DE LAUNDRY EXPRESS,081234567891,"Jl. Cihampelas No.193 A, Cipaganti, Coblong, Bandung City, West Java 40131",0.035398553583359305,0.4270356440695737,0,1,1,1,0,413
+Laundry Loverz,081234567891,"Jl. Purwakarta No.190, Antapani Kidul, Kec. Antapani, Kota Bandung, Jawa Barat 40291",0.042512014262933384,0.4296337383457205,0,1,1,0,1,414
+Malika Laundry,081234567891,"Jl. Merdeka No.25 - 27, Babakanciamis, Sumurbandung, Bandung City, West Java 40117",0.04288977859300469,0.42680607499024426,1,1,1,1,0,415
+Mr & Mrs Clean Laundry & Dry Clean,081234567891,"Jl. Ir. H. Juanda No.170, Lebak Siliwangi, Bandung, Bandung City, West Java 40132",0.043349610527237736,0.42776293875513804,1,0,1,0,0,416
+Mami Laundry,081234567891,"Jl. Tubagus Ismail Dalam No.40a, Lebak Gede, Coblong, Bandung City, West Java 40132",0.043476738403585125,0.42902487707465387,1,0,1,1,0,417
+Smile Laundry Bandung,081234567891,"Jl. Rama No.26b, Arjuna, Cicendo, Bandung City, West Java 40172",0.04489957531145872,0.42861658467509756,0,1,1,0,1,418
+AT Laundry,081234567891,"Jl. Pendawa No.25a, RW.68, Arjuna, Cicendo, Bandung City, West Java 40172",0.040198105948462515,0.4304315779447121,1,1,1,1,1,419
+LaundryBOSS!,081234567891,"Jl. Cijawura Hilir No.14, Cijaura, Kec. Buahbatu, Kota Bandung, Jawa Barat 40287",0.03928016124700773,0.42844568377934866,1,1,1,1,1,420
+Laundryhere,081234567891,"Jl. Boscha No.12, Pasteur, Sukajadi, Bandung City, West Java 40161",0.043024235549767864,0.4294826796974265,1,1,1,1,1,421
+HADE Laundry,081234567891,"Ruko Perum Eastern Hills No.1, Cipadung, Cibiru, Cipadung, Kec. Cibiru, Kota Bandung, Jawa Barat 40614",0.04412486436677099,0.42996337722110933,0,1,1,0,1,422
+Laundry88,081234567891,"Jl. Babakan Jeruk 1 No.100, Sukagalih, Sukajadi, Bandung City, West Java 40162",0.038106694038218314,0.4289103071746849,1,0,1,1,1,423
+Bersihin Laundry,081234567891,"Jl. Tubagus Ismail No.10, Sekeloa, Kecamatan Coblong, Kota Bandung, Jawa Barat 40134",0.04218066744216176,0.42973123246542766,0,0,1,1,1,424
+BJ Laundry,081234567891,"Jl. Industri No.27, Arjuna, Kec. Cicendo, Kota Bandung, Jawa Barat 40172",0.0344031558839305,0.4304364908088658,0,1,0,0,1,425
+Oxy Laundry Dipati Ukur,081234567891,"Jl. Batununggal Mulia Ⅹ No.3, Mengger, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40267",0.042270697504058985,0.4295355287603595,1,0,1,0,1,426
+FLO~WASH Laundry Kiloan,081234567891,"Jl. Samoja No.8, Samoja, Batununggal, Bandung City, West Java 40273",0.03803421757632919,0.42886213248735405,1,0,1,0,1,427
+First Clean Laundry for Hotel,081234567891,"Jl. Sekelimus Utara No.103, Batununggal, Bandung Kidul, Bandung City, West Java 40266",0.043072010296181684,0.42992707926362517,1,1,1,1,1,428
+AERO CLEAN LAUNDRY BANDUNG,081234567891,"Jl. Inhoftank No.45b, Pelindung Hewan, Astanaanyar, Bandung City, West Java 40243",0.037720695802988424,0.4303018878706002,0,1,0,1,0,429
+Maxpress Laundry Express Sumbersari,081234567891,"Jl. Sukasirna No.101, Padasuka, Cibeunying Kidul, Bandung City, West Java 40125",0.03823454577435981,0.42756828439969574,0,1,0,0,0,430
+ON Laundry,081234567891,"Mekarsaluyu, Cimenyan, Bandung Regency, West Java 40198",0.04193690765648217,0.430249563482481,0,1,0,0,0,431
+Bee Laundry,081234567891,"Jl. Desa Cipadung ruko No.108, Cipadung, Cibiru, Bandung City, West Java 40615",0.04233910225460602,0.4284595161153151,0,0,1,0,0,432
+Baltic Laundry,081234567891,"Jl. Pasir Honje IV No.9, Padasuka, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40191",0.036421457954965764,0.4287414572804753,1,1,1,1,1,433
+Rekleen laundry,081234567891,"Jl. Sidomukti No.65, RW.12, Sukaluyu, Cibeunying Kaler, Bandung City, West Java 40123",0.044360480729766394,0.42848474820402593,1,0,0,1,0,434
+Laundry Kiloan Bandung,081234567891,"Jl. Tamblong No.34, Kebon Pisang, Sumurbandung, Bandung City, West Java 40112",0.040215297618573675,0.42915676124343527,1,1,1,1,1,435
+SPEED LAUNDRY (cabang),081234567891,"Jl. Ciumbuleuit No.163, Ciumbuleuit, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",0.04067549148270366,0.4290857393529057,1,1,1,1,1,436
+Bio Clean Laundry Cabang Setiabudi,081234567891,"Samping Pasar Segar, Taman Kopo Indah 2, Jl. Taman Kopo Indah 2 Ruko III No.11, Rahayu, Kec. Margaasih, Kabupaten Bandung, Jawa Barat 40218",0.04548382064781098,0.4286119102994954,1,0,1,0,1,437
+J.Clean Laundry And Wet Clean,081234567891,"Jl. Tubagus Ismail No.14, Sekeloa, Kecamatan Coblong, Kota Bandung, Jawa Barat 40134",0.04087002880238122,0.42946312363623296,1,1,1,1,1,438
+Sinar Bintang Laundry,081234567891,"Jl. Pesantren No.159, Cibabat, Cimahi Utara, Cimahi City, West Java 40513",0.04010988553605066,0.4305737171211934,1,0,0,0,1,439
+The Laundry Room,081234567891,"Jl. Sari Asih No.48, Sarijadi, Sukasari, Bandung City, West Java 40151",0.040268591795917796,0.4278849971956129,1,1,1,1,1,440
+Sneaklin Cimahi,081234567891,"Jl. Ciumbuleuit No.96, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",0.04308458736010501,0.42642010511907547,0,0,0,1,0,441
+LaundryKlin Riviera Kelapa Gading Express Terdekat,081234567891,"Jl. Papanggungan No.12, RT.02/RW.09, Kb. Kangkung, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40284",0.10930871027728883,0.396006852634633,1,0,0,1,0,442
+Laundry (Box’s Laundry),081234567891,"Jl. Sersan Surip No.125, Ledeng, Cidadap, Bandung City, West Java 40143",0.09799586748443512,0.39881066713499447,1,0,1,0,0,443
+Laundry 150 Bekasi,081234567891,"Jl. Cikaso No.71, Sukamaju, Cibeunying Kidul, Bandung City, West Java 40121",0.1017076395438814,0.4006714502064286,1,0,1,1,1,444
+BIG CLEAN LAUNDRY BEKASI & KARPET 24 Jam Ekspress !!!,081234567891,"Jl. Luna IV No.3, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40231",0.09482373290152679,0.4005956108471649,1,1,1,1,1,445
+Ezy Wash Laundromat Bekasi,081234567891,"Jl. Cisitu Lama XI No.3, Dago, Kecamatan Coblong, Kota Bandung, Jawa Barat 40134",0.1010261255476903,0.398797359473841,0,0,1,0,0,446
+Laundry Koin LAUNDRY HOUSE BEKASI,081234567891,"3MP2+8VV Laundrette, Jl. Purwakarta, Babakan Surabaya, Kec. Antapani, Kota Bandung, Jawa Barat 40291",0.10031638101952756,0.40118792101278267,1,0,1,1,1,447
+GLADY n NEAT Laundry - Caman,081234567891,"Heritage, Jl. Cigadung Raya Barat sebrang No.3, Dago, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40191",0.09967857005840819,0.3979056984788292,0,1,0,0,0,448
+Laundry The Daily Wash Laundromat Karin Bekasi,081234567891,"Jl. Astana Anyar No.308, Nyengseret, Astanaanyar, Bandung City, West Java 40242",0.10027005399270195,0.3995491707824623,1,1,1,0,1,449
+Toko Laundry Bekasi,081234567891,"Jl. Sekeloa Tengah No.104, Lebak Gede, Coblong, Bandung City, West Java 40132",0.09723255733150538,0.3988095700876588,1,0,0,1,1,450
+PRIMA CLEAN LAUNDRY,081234567891,"Dekat Kampus Universitas Telkom, Jl. PGA No.54, Lengkong, Kec. Bojongsoang, Kabupaten Bandung, Jawa Barat 40287",0.10177948262845071,0.4006877151256161,1,0,0,0,1,451
+"Laura Laundry, Dry Clean & Shoe Care",081234567891,"Jl. Dipati Ukur No.96, RT.02, Lebak Gede, Coblong, Bandung City, West Java 40132",0.0967217837642591,0.3964723345887524,1,1,0,1,1,452
+Mama Laundry,081234567891,"Jl. Phh. Mustofa No.127D, Sukapada, Cibeunying Kidul, Bandung City, West Java 40125",0.10199935504092339,0.40048123173803774,0,1,1,0,1,453
+Louvy Laundry,081234567891,"Jl. Nyengseret No.22A, Nyengseret, Astanaanyar, Bandung City, West Java 40243",0.09872696587652541,0.3994192899175095,1,1,1,0,1,454
+GLADY n NEAT Laundry - Ratna,081234567891,"Jl. Cigadung Kaler IV No.5, Cigadung, Cibeunying Kaler, Bandung City, West Java 40191",0.09729480927380207,0.3978395417547427,1,0,0,1,0,455
+Sense Laundry Bekasi Site,081234567891,"Jl. Reog No.58, Turangga, Lengkong, Bandung City, West Java 40264",0.09377911273609585,0.3999723925653189,1,0,1,0,1,456
+LaundryKlin Arana (Laundry Antar dan Jemput),081234567891,"Jl. Sumber Mekar No.33, Babakan, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40222",0.10791518969107827,0.3999486391056255,1,1,1,1,1,457
+Quick Laundry,081234567891,"Jalan Haurpancuh II No.76 RT 04 RW 07, Lebak Gede, Coblong, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",0.10085665187338522,0.3993080588572573,1,1,1,1,1,458
+Echo Laundry Services,081234567891,"Jl. Saturnus Tengah II No.23, Manjahlega, Kec. Rancasari, Kota Bandung, Jawa Barat 40286",0.09595467334740992,0.4000070688006563,1,1,0,1,1,459
+Mega Jaya Laundry Cabang Taman Wisma Asri Bekasi,081234567891,"Jl cikondang no 9 sadang serang, Cikutra, Kecamatan Coblong, Kota Bandung, Jawa Barat 40133",0.10296634124343185,0.40135586465049755,0,1,1,1,1,460
+Melia Laundry & Dry Cleaning Pekayon,081234567891,"Jl. Karang Tineung Indah Dalam No.19A/181, Cipedes, Sukajadi, Bandung City, West Java 40162",0.09878976071366774,0.3995487892007805,1,0,1,1,0,461
+CleanMax Laundry,081234567891,"Jl. RD Rangga Kencana No.68, Mekarwangi, Bojongloa Kidul, Bandung City, West Java 40236",0.09738692043260755,0.4003357537218406,0,1,1,0,1,462
+DI-LAUNDRY,081234567891,"4JF3+4XG Laundry, Jl. Bukit Jarian, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",0.09533133958217355,0.3965517989739933,1,0,0,1,0,463
+KING LAUNDRY,081234567891,"4HPV+497 Rekleen laundry, Jl. Gegerkalong Girang, Isola, Sukasari, Bandung City, West Java 40153",0.09665844603227103,0.39756155949953076,0,0,0,0,1,464
+KANGEN LAUNDRY,081234567891,"Jl. Aceh No.22, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",0.1033405767570067,0.40100099368639697,1,1,0,0,0,465
+RIZZ Laundry Outlet #01,081234567891,"Komplek duta taman cileunyi blok 2a no 8, Cileunyi Kulon, Kec. Cileunyi, Kabupaten Bandung, Jawa Barat 40622",0.09519027740478891,0.3965383482197087,1,1,1,1,0,466
+LAUNDRY UAP,081234567891,"Gg. Nangkasuni No.19, RT.04/RW.18, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116",0.10122554892097835,0.4011611625973437,0,0,1,0,1,467
+“MELATI” LAUNDRY - SBS,081234567891,"Ps. Kosambi, Jl. A. Yani, Kb. Pisang, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40112",0.10350778836945507,0.3995676297963211,1,0,1,1,1,468
+FRESKLIN LAUNDRY BEKASI,081234567891,"JL. Setiabudi, No. 7 / 171B, Isola, Kec. Sukasari, Kota Bandung, Jawa Barat 40153",0.10025195749784832,0.39946631985979497,1,0,1,1,1,469
+AiraQu Laundry,081234567891,"2JWW+CPG Laundry, Margasari, Kec. Buahbatu, Kota Bandung, Jawa Barat 40286",0.10313083838165216,0.4011595885729067,1,1,1,0,1,470
+Qlau Laundry,081234567891,"Jl. Sultan Tirtayasa No.24, Citarum, Bandung Wetan, Bandung City, West Java 40115",0.09975131796772019,0.4014250740280385,0,0,1,0,1,471
+Twins Laundry - Laundry & Dry Cleaning | Laundry Express | Laundry Antar Jemput,081234567891,"Jl. A. Yani No.353, Sukamaju, Kec. Cibeunying Kidul, Kota Bandung, Jawa Barat 40121",0.10146342734583047,0.4002357793212008,1,1,0,0,0,472
+LOUVY LAUNDRY JATI BENING,081234567891,"Jl. Ciroyom No.95/77, Dungus Cariang, Andir, Bandung City, West Java 40183",0.09855866847438577,0.3978026714247358,1,1,0,1,0,473
+Kang Laundry Services,081234567891,"Jl. Raya Cibabat No.452, Cibabat, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523",0.099119297884954,0.3987470860872593,1,1,1,1,0,474
+Violet Laundry,081234567891,"Jalan Kelapa Hibrida Timur Blok RB-8 Nomor 11A, Pegangsaan Dua, Kelapa Gading",0.09436887750337852,0.39959529446825304,1,1,1,0,1,475
+The Daily Wash Pondok Ungu,081234567891,"Ruko Grand Galaxy City, Jl. Lotus Utara 1 blok RSO C No 7, RT.004/RW.019, Jaka Setia, Bekasi Selatan, Bekasi, West Java 17147",0.10631889788003179,0.40028595731236116,0,1,0,1,1,476
+Laundry Clean 'N Clean,081234567891,"Jl. KH. Agus Salim No.150 E, RT.008/RW.007, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",0.09421759080640146,0.4012015625579082,1,0,1,1,1,477
+Wish Laundry,081234567891,"Jl. Bengkong Raya No.33, RT.004/RW.003, Padurenan, Kec. Mustika Jaya, Kota Bks, Jawa Barat 17156",0.10279225296293903,0.39981484702843506,0,0,0,0,1,478
+GR Laundry & Dry Clean,081234567891,"Jl. Patriot No.188A, RT.004/RW.003, Jakasampurna, Bekasi Barat, Bekasi, West Java 17145",0.09979692113475147,0.4045048674797824,1,0,1,1,0,479
+BAWISE LAUNDRY,081234567891,"Jl. Ampera No.42, Duren Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17111",0.10182861461197856,0.40096178616858946,1,1,1,1,1,480
+Clean.In Laundry,081234567891,"Jl. Caman Raya No.23, RT.008/RW.001, Jatibening, Kec. Pd. Gede, Kota Bks, Jawa Barat 17412",0.10162828641394783,0.40083486256167156,1,1,1,0,0,481
+Dhe Laundry,081234567891,"Jl. Lele Raya No.79, RT.005/RW.006, Kayuringin Jaya, Bekasi Selatan, Bekasi, West Java 17144",0.10142108154787277,0.3987436995498337,0,1,1,1,1,482
+INDOCLEAN Laundry House,081234567891,"Jl. Raya Pekayon Jl. Kp. Utan No.26, RT.002/RW.002, Jaka Setia, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17147",0.09719012105107327,0.4006507970978994,1,0,0,1,1,483
+LaundryKlin Mekarsari,081234567891,"Jl. KH. Agus Salim No.2 (Samping, Jl. KH. Agus Salim Gg. Pandu dekat SMAN 1, RT.008/RW.007, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",0.10183775334187961,0.4010334281293524,1,1,0,0,0,484
+Ny.Uci Laundry Barata,081234567891,"Jl. Raya Jati Makmur No.97, RT.003/RW.005, Jatimakmur, Pondok Gede, Bekasi, West Java 17413",0.10386193677374234,0.3996294460287766,1,0,1,0,0,485
+Lemon Laundry,081234567891,"Kecamatan:, Jl. Raya Perjuangan No.28, RT.01/RW.009, Kelurahan:, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17124",0.09809729833809022,0.39948997792406793,1,1,1,1,1,486
+Deyona Laundry,081234567891,"Pondok Pekayon Indah Jalan Ketapang Raya Blok DD38 No, RT.006/RW.001, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",0.09682538619729664,0.39656610828706196,1,1,0,0,0,487
+LAUNDRY ( ZUE LAUNDRY SUMMARECON ),081234567891,"Jl. Dr. Ratna No.2, RT.001/RW.002, Jatikramat, Kec. Jatiasih, Kota Bks, Jawa Barat 17421",0.10212684484716783,0.40044832031797917,0,1,0,1,0,488
+Choayo Laundry And Wet Cleaning,081234567891,"RT.001/RW.001, Padurenan, Mustika Jaya, Bekasi, West Java 16340",0.09069166974910292,0.3984280838012513,1,1,1,1,1,489
+Super Clean Laundry,081234567891,"Ruko Arana IX 3 No. 19, Setia Asih, Kec. Tarumajaya, Kabupaten Bekasi, Jawa Barat 17215",0.09819646712988861,0.4003309839508171,1,1,0,1,1,490
+Laundry Kiloan dan Satuan Pulo Gebang (Voryclean Laundry Services),081234567891,"Jl. Sadewa I No.5, Kayuringin Jaya, Bekasi Selatan, Bekasi, West Java 17144",0.10529508868368254,0.39821883394647983,1,0,0,1,1,491
+Arlet Laundry - Bekasi,081234567891,"Jl. Batu Giok Raya No.157, RT.001/RW.005, Bojong Rawalumbu, Rawa Lumbu, Bekasi, West Java 17116",0.10150007274790929,0.4001837411193421,1,1,0,0,0,492
+Arzha Laundry,081234567891,"Taman Wisma Asri Jl Taman Wisma Asri Blok L6A kel, RT.001/RW.032, Tlk. Pucung, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17121",0.102547316905094,0.4000813341354812,0,0,1,1,0,493
+Laundri Ridho Clean,081234567891,"Jl. Raya Pekayon No.55, RT.003/RW.001, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17418",0.10258794353604062,0.398996592809465,0,1,1,0,0,494
+Rumah Nata Laundry Services,081234567891,"Ruko Hamz, Jl. Makrik, RT.004/RW.004, Bojong Rawalumbu, Rawa Lumbu, Bekasi, West Java 17116",0.10258839594841185,0.40243111413217836,1,1,0,0,1,495
+Icha Laundry,081234567891,"Jl. Raya Hankam No.7, Jatiwarna, Kec. Pd. Melati, Kota Bks, Jawa Barat 17415",0.09557491840290466,0.39919701858784506,1,1,1,1,1,496
+LaundryOne,081234567891,"Jl. Raya Pekayon No.55, RT.003/RW.001, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17418",0.10262811775461578,0.39621896435201887,1,1,1,1,1,497
+Metro Laundry 3 Cabang Mustikasari,081234567891,"indah 1 ruko pink, Jl. Raya Jatikramat, RT.006/RW.009, Jatikramat, Kec. Jatiasih, Kota Bks, Jawa Barat 17421",0.09557401357816198,0.40008438678893654,1,1,1,1,1,498
+Koala Laundry - Duren Sawit,081234567891,"Prima harapan regency, Blk. I4 No.1, RT.002/RW.018, Harapan Baru, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17123",0.10229351356477057,0.39722395510653374,1,0,1,0,1,499
+Laundry sepatu dan tas Rawalumbu (Raja Cuci Sepatu),081234567891,"Jl. Raya Hankam, RT.006/RW.009, Jatiwarna, Pondok Melati, Bekasi, West Java 17415",0.09774025449462631,0.40036394306858547,0,1,0,0,0,500
+Kartika Laundry Bintara6,081234567891,"Jl. Utama (Jl. Borobudur Raya) Blok D No. 236, Perum. Duren Jaya - Bekasi, RT.009/RW.009, Duren Jaya, Bekasi Timur, Bekasi, West Java 17111",0.101939274678009,0.3979899803328024,1,0,0,0,0,501
+star laundry bekasi,081234567891,"Jl. Merbabu Raya No.16, RT.006/RW.007, Harapan Jaya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17124",0.10270756136702364,0.40015631493595993,1,1,1,1,1,502
+Orang Laundry,081234567891,"Perumnas 2, Jl. Gabus Raya No.181, RT.002/RW.007, Kayuringin Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17144",0.10355031513236135,0.39915747718606553,1,0,1,1,0,503
+Laundry 33,081234567891,"Jl. Duta Boulevard Barat No.16, RT.012/RW.014, Harapan Baru, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17123",0.10097319330024324,0.4004797531090203,0,1,0,0,0,504
+DRClean Laundry & Drycleaning Service,081234567891,"Jl. Cendrawasih IV No.RT 008, Jaladha Pura, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113",0.09844746551350969,0.40111780537874697,0,1,0,0,1,505
+MAW Laundry,081234567891,"Jl. Raya Perjuangan No.9, RT.004/RW.001, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17143",0.09204058247549907,0.39696929703162276,1,1,0,0,1,506
+Beach Laundry & Quick Dry - Karpet Sofa Spring Bed,081234567891,"Jl. Dr. Ratna No.163 C, Jatibening, Kec. Pd. Gede, Kota Bks, Jawa Barat 17412",0.09176958746506458,0.4048798191798886,0,0,1,1,0,507
+Solusi Laundry,081234567891,"Jl. Aster Raya No.22, RT.006/RW.014, Jaka Setia, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17147",0.10065578078050907,0.4018882187943573,1,1,0,1,1,508
+Dreklin Laundry & Dry Cleaning,081234567891,"Jl. Ps. Lama No.244, RT.002/RW.004, Raya, Kec. Bantar Gebang, Kota Bks, Jawa Barat 17157",0.09896683491581137,0.3976644434604939,1,0,0,0,1,509
+Binatu,081234567891,"Jl. Kenanga 6 Blok DD No.5, RT.010/RW.010, Kaliabang Tengah, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17125",0.10235440826995335,0.39948768843397797,1,0,1,0,1,510
+Sonne Laundry & Dry Cleaning,081234567891,"Ruko Central Bisnis, Jl. Dukuh Zamrud Jl. Zamrud Selatan No.68, RT.003/RW.009, Padurenan, Kec. Mustika Jaya, Kota Bks, Jawa Barat 17166",0.09646825187135843,0.4006026701082792,0,1,1,0,0,511
+BS Laundry Cikarang,081234567891,"Jl. Kapuas Raya No.88B, RT.008/RW.019, Harapan Jaya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17124",0.0933864187977701,0.4068142952136249,1,0,0,1,1,512
+Laundry Mania,081234567891,"Jl. Perum Mustika No.B1/17, RT./RW/RW.004/038, Wanasari, Cibitung, Bekasi Regency, West Java 17520",0.10248904619166499,0.4011572036873954,1,1,1,1,1,513
+aQualis Laundry & Green Dry Clean - Kelapa Indah,081234567891,"Jalan Mekar sari Rt 04 Rw 03 #28 Bekasi Jaya Bekasi Timur, RT.010/RW.003, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",0.10042342178658725,0.3963935379714556,0,1,0,1,1,514
+Laundry In,081234567891,"Jl. Mekar Sari, RT.003/RW.003, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",0.09496651424592262,0.3964477702679856,1,0,1,0,1,515
+MaxPRESS Coin Laundry LIPPO CIKARANG,081234567891,"Jl. Bintara No.29A, RT.007/RW.008, Kranji, Bekasi Barat, Bekasi, West Java 17137",0.0928272371067903,0.4062342910572472,1,1,1,1,1,516
+Cuci Kiloan Apsari Laundry & Dry Clean,081234567891,"Jl. Narogong Ceria Jl. Narogong Indah No.D149, RT.005/RW.023, Pengasinan, Rawa Lumbu, Bekasi, West Java 17115",0.1010622280549236,0.39958580262391763,1,1,1,1,1,517
+Jasa Laundry Terdekat,081234567891,"Jl. Mekar Sari No.34, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113",0.10004873386064095,0.4004559519516162,1,1,1,1,1,518
+Bintara Laundry & Dry Cleaning,081234567891,"Barata, barata, Cempaka I No.232, RT.001/RW.006, Harapan Jaya, Bekasi Utara, Bekasi, West Java 17124",0.10354217170967717,0.39941986229003223,1,1,1,0,0,519
+Khaira Laundry premium & wet clean,081234567891,"JL Niaga Raya blok Q no 12 A, Jl. Kemang Pratama Raya No.1, RT.003/RW.021, Bojong Rawalumbu, Kec. Rawalumbu, Kota Bks, Jawa Barat 17114",0.10189276668623493,0.4077640043219848,0,0,0,0,1,520
+Jasa Laundry,081234567891,"PW8F+3M5 Deyona Laundry, Jl. Raya Jati Makmur, RT.004/RW.007, Jatimakmur, Kec. Pd. Gede, Kota Bks, Jawa Barat 17414",0.10020300647926894,0.4016900825060681,0,1,0,0,0,521
+Kirei Laundry,081234567891,"Gg. Assyifa II No.156, RT.004/RW.002, Marga Mulya, Bekasi Utara, Bekasi, West Java 17143",0.09689379094784367,0.3999813597348423,1,1,1,1,0,522
+Cottonmate Laundry & Shoes Care (GRATIS ANTAR JEMPUT) (B2B),081234567891,"Ruko Boston Square RK 1/ 27 Kota wisata Cibubur, Ciangsana, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16968",0.09540824968530193,0.4079892806073939,1,0,1,1,1,523
+ArMi Express Coin Laundry Jababeka Cikarang,081234567891,"Jl. Pramuka No. 5D, RT. 1/ RW. 17, Pengasinan, Rawa Lumbu, RT.001/RW.017, Pengasinan, Kec. Rawalumbu, Kota Bks, Jawa Barat 17115",0.09407372367231448,0.40783297521097506,0,1,0,0,0,524
+ToBiwos Laundry Cikarang,081234567891,"Jl. Raya Pulo Gebang No.34, RT.14/RW.4, Ujung Menteng, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13960",0.09123212156790916,0.4076996601108869,1,0,1,0,1,525
+Zain Laundry,081234567891,"R284+QQ7 Laundry, Jl. Gn. Rinjani Raya, Bahagia, Kec. Babelan, Kabupaten Bekasi, Jawa Barat 17125",0.10342481594055075,0.39492039419104863,0,0,0,1,0,526
+Tioman's Laundries,081234567891,"JL. Dr. Ratna No. 81, Pondok Gede - West Java, RT.004/RW.001, Marga Mulya, Bekasi Utara, Bekasi, West Java 17143",0.10408714765219684,0.3977828291772809,0,0,0,1,0,527
+MAM Express Laundry Coin,081234567891,"Jl. Kav. Al-Ikhlas No.1 No.3, RT.006/RW.003, Marga Mulya, Bekasi Utara, Bekasi, West Java 17124",0.10118003623642124,0.39566753112406783,1,1,1,1,1,528
+@ Laundry,081234567891,"Jl. Sultan Agung No.1, RT.001/RW.002, Kali Baru, Kecamatan Medan Satria, Kota Bks, Jawa Barat 17132",0.10458344402356012,0.4023284209620561,0,1,1,0,1,529
+Febri Laundry,081234567891,"Jl. Kalibusa, Karangsatria, Tambun Utara, Bekasi Regency, West Java 17510",0.10021920284216301,0.39570573698996014,0,1,1,1,1,530
+CLOP Laundry,081234567891,"Jl. Ratna - Jatibening No.16, RT.001/RW.001, Jatibening, Kec. Pd. Gede, Kota Bks, Jawa Barat 17412",0.10345123682303714,0.3912217706468004,1,0,0,0,1,531
+Kago Laundry,081234567891,"P254+V69 Echo Laundry Services, Jl. Caringin, RT.005/RW.009, Mustikasari, Mustika Jaya, Bekasi, West Java 17157",0.10045916236392327,0.39012763287186925,1,0,1,0,0,532
+Beehive Laundry Mangga Besar,081234567891,"PX2H+GQC Icha Laundry, Jl. Sarikaya 2, RT.02/RW.003, Bojong Menteng, Kec. Rawalumbu, Kota Bks, Jawa Barat 17177",0.10977261392286397,0.39191658319169864,0,1,1,1,1,533
+Laundry & Dry Cleaning Profesional Victory Since 1950 Same Day Service,081234567891,"Jl. Buaran Raya No.4, RT.4/RW.12, Klender, Durensawit, East Jakarta City, Jakarta 13440",0.10563159300548752,0.3920897258798277,1,0,1,1,1,534
+Pressto Laundry Cikini,081234567891,"meter dari toko adwinda karpet, Jl. Barin Raya No.50, RT.002/RW.003, Mustikasari, Kec. Mustika Jaya, Kota Bks, Jawa Barat 17116",0.1052691202135676,0.39246610851124153,0,1,1,1,1,535
+Comfy Laundry,081234567891,"Jl. Mawar Merah No.37, RT.6/RW.1, Pd. Kopi, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13460",0.10442084701729948,0.3910394223005964,1,1,1,1,1,536
+Di-Laundry-In,081234567891,"Aren Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat",0.10599732316648114,0.39258234783106793,1,1,1,1,1,537
+Hello Laundry,081234567891,"Jl. Penegak Raya Jembatan 2 No.354, RT.007/RW.005, Pengasinan, Kec. Rawalumbu, Kota Bks, Jawa Barat 17115",0.10030145141127322,0.38990941584757355,1,1,1,0,1,538
+Bubbleklin Laundry Mardani,081234567891,"Jl. Bintara No.19, RT.001/RW.009, Bintara, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17134",0.10602528225103014,0.3935974505001507,1,0,1,1,1,539
+"Unlimited Laundry , Specialist Tas / Laundry Satuan /, Cuci / Spa / Repaint / Unyellowing / Re Glue / Jahit",081234567891,"Jalan mess AL RT01/05 NO C3 JL mess AL RT01/05 NO C3, Jatiraden, Kota Bks, Jawa Barat 17433",0.10717169520001324,0.3900028079642013,1,1,0,1,1,540
+Arlet Laundry Tebet Barat Satuan dan Kiloan,081234567891,"QXJX+3Q5 star laundry bekasi, RT.006/RW.003, Marga Mulya, Bekasi Utara, Bekasi, West Java 17124",0.10134362854989887,0.3930148706674199,0,0,1,1,1,541
+JCC Laundry - Joel Cleaning Center,081234567891,"QXQH+QCM Orang Laundry, Jl. Alexindo, RT.001/RW.001, Medan Satria, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17132",0.10819423764172265,0.3920586746704693,0,1,0,0,0,542
+Alfatih Laundry,081234567891,"Jl. KH. Agus Salim No.46, RT.001/RW.005, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",0.11231100925599513,0.39640913512269993,0,0,0,1,0,543
+Cotton Cleaners & Launderers,081234567891,"Jl. Wijaya Kusuma 1 Blok F17 No.12, Bekasi Timur, Kota Bks, Jawa Barat 17111, In Jl. Cendrawasih Blok B no. 46, Jatimulya, Bekasi Timur, Jatimulya, Kec. Tambun Sel., Kota Bks, Jawa Barat 17111",0.09973430726255761,0.3902127255869168,1,1,1,1,1,544
+Jakarta Laundry Dry Clean,081234567891,"Jl. Raya Pabuaran No.1, RT.007/RW.002, Jatiranggon, Jatisampurna, Bekasi, West Java 17432",0.10568570152510015,0.39262126916261497,1,1,1,1,1,545
+Coin Laundry Lounge 59,081234567891,"Jl. Villa Mutiara Cikarang 2 No.11, Sukasejati, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 17530",0.1031879328229156,0.3919473959125064,1,1,0,0,1,546
+"SURYA ABADI LAUNDRY- Laundry Linen Hotel, B2b Laundry Hotel, Laundry Hotel terbaik di Jakarta",081234567891,"Jl. P. Flores VI No.1, RT.008/RW.017, Aren Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17111",0.10948750364644366,0.39235048926164673,1,1,1,1,1,547
+VVIP Laundry - Sudirman,081234567891,"Jl. Caman Raya No.81, RT.002/RW.003, Jatibening, Kec. Pd. Gede, Kota Bks, Jawa Barat 17412",0.10400028447689902,0.39150132692644934,0,1,1,0,1,548
+JEEVES - Central Processing,081234567891,"5, Jl. Raya Narogong Jl. Pangkalan 1 No.Km 11, RT.001/RW.008, Bantargebang, Kec. Bantar Gebang, Kota Bks, Jawa Barat 17151",0.10294779233620677,0.39479957589103964,0,1,1,1,1,549
+Laundry Perkilo Premium Satrio,081234567891,"Japan Sadewa rt02 rw06 Kv mekar jaya, Kelurahan, RT.002/RW.006, Harapan Mulya, Kecamatan Medan Satria, Kota Bks, Jawa Barat 17143",0.10271090921857162,0.3916077882156799,0,1,0,1,0,550
+Laundry Laundrix Kiloan Jakarta,081234567891,"P265+FGH Sonne Laundry & Dry Cleaning, Jl. Pejuang Raya, RT.002/RW.009, Mustikasari, Kec. Mustika Jaya, Kota Bks, Jawa Barat 17157",0.10713414497319185,0.39540991579112283,1,1,1,0,1,551
+De Coin Laundry,081234567891,"Jl. sentosa barat, Blok K1 No. 12B, Taman Sentosa, Sukaresmi, Cikarang Sel., Cikarang selatan, Kab. Bekasi, Jawa Barat 17530",0.09872678491157683,0.39048088211382126,1,0,1,1,1,552
+KILOHANA Laundry Kiloan dan Satuan,081234567891,"Jl. Raya Perjuangan No.69, RT.002/RW.008, Harapan Baru, Bekasi Utara, Bekasi, West Java 17123",0.10511149974339162,0.39330749611967164,1,0,0,0,0,553
+Essii Laundry,081234567891,"Perum Kelapa Indah Blk B IV, RT.14/RW.1, Pd. Klp., Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450",0.10070455083413976,0.3911168833820078,0,1,0,0,0,554
+Sip Coin Laundry Express,081234567891,"Jl. Pagelarang, Jatiwarna, Pondok Melati, Bekasi, West Java 17415",0.10931015799687716,0.391606214191242,0,1,0,0,0,555
+ALFA LAUNDRY COIN EXPRESS 3 JAM SELESAI,081234567891,"Ruko Trivium Square No. 22, Jl. Kemang Raya, Sukaresmi, Cikarang Selatan, Bekasi Regency, West Java 17530",0.10790795109313678,0.39349461423689824,1,1,1,1,1,556
+Apparel Clinic ( cuci ),081234567891,"QX6Q+Q2M Cuci Kiloan Apsari Laundry & Dry Clean, Jl. Tampomas I, RT.002/RW.018, Kayuringin Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17144",0.10853381836765263,0.3957826733965595,0,1,1,1,0,557
+Cleando Laundry,081234567891,"Jl Delima 3 No.3, RT.1/RW.13, Duren Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17111",0.1067757438926139,0.39232921608288507,0,1,1,0,1,558
+5asec Cikini Raya,081234567891,"Jl. Bumi Anggrek Raya No.29, Karangsatria, Kec. Tambun Utara, Kabupaten Bekasi, Jawa Barat 17510",0.10545298060128139,0.392452466966116,0,0,0,0,1,559
+Kwik Wash Laundry,081234567891,"QXQM+PJV Bintara Laundry & Dry Cleaning, Jl. Bengawan Solo III, RT.003/RW.008, Harapan Jaya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17124",0.09753467831308815,0.3918582011943794,0,0,0,1,1,560
+Express Laundry jakarta,081234567891,"Jl. Pilar Sukatani, RT.003/RW.003, Sukaraya, Kec. Karangbahagia, Kabupaten Bekasi, Jawa Barat 17530",0.10420196991204378,0.3929901155558113,1,1,1,0,1,561
+Zap Laundry Menteng Park,081234567891,"Jl.Patriot Raya 62a Rt 002/022 Kel, RT.002/RW.022, Aren Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17111",0.10541868774353347,0.3925946538403071,1,1,1,1,1,562
+LaundyinAja,081234567891,"Jl. Nangka, RT.006/RW.005, Bojong Rawalumbu, Kec. Rawalumbu, Kota Bks, Jawa Barat 17116",0.10296498400631782,0.3953554927037528,1,0,1,1,1,563
+5asec Kelapa Gading,081234567891,"Kemilau Laundry ( sebelum rel kereta, Jl. Aren Jaya, RT.001/RW.005, Setiamekar, Kec. Tambun Sel., Kota Bks, Jawa Barat 17510",0.10844025948925895,0.3957676009201263,0,0,1,0,0,564
+Londri Laundry,081234567891,"Jl. Boulevard Raya No.52, RT.001/RW.002, Jaka Setia, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17147",0.10847952888309154,0.392235680873128,1,1,1,1,1,565
+"SMART LAUNDRY SERVICE - Cuci Karpet, Cuci Sofa, Cuci Gorden , Service Sofa. Area LAYANAN JABODETABEK.",081234567891,"Depan ALFAMART Kedasih, Jl. Kedasih IV, Mekarmukti, Kec. Cikarang Utara, Kabupaten Bekasi, Jawa Barat 17530",0.0986152200208037,0.3891952857300325,1,0,0,0,0,566
+APIQUE Laundry Setiabudi,081234567891,"Jl. Antilop V No.87, Jayamukti, Central Cikarang, Bekasi Regency, West Java 17530",0.10373417552007513,0.3919343267399036,0,0,0,0,1,567
+Kota Laundry Express Cempaka Putih Jakarta Pusat,081234567891,"QW5Q+Q78 Laundry, RT.5/RW.2, Pd. Klp., Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450",0.10664273465543905,0.39411597230804407,1,0,0,0,0,568
+5asec Gatot Subroto,081234567891,"Ruko Ventura Jalan Gunung Panderman Blok E/15 Lippo Cikarang, Cibatu, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 17530",0.10066709108979255,0.39267554915685476,0,1,1,1,1,569
+Taurus laundry,081234567891,"Jl. Bekasi Timur Raya No.5A, RT.5/RW.8, Cipinang, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13240",0.09924054440047392,0.3912886905342505,0,1,1,1,1,570
+Herado Laundry,081234567891,"QWWX+5V5 Tioman's Laundries, Apartemen Sentra Timur Tower Hijau No, RT.8/RW.6, Pulo Gebang, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13950",0.09527107825431069,0.39140450057468623,1,1,1,1,1,571
+VIRGI LAUNDRY,081234567891,"Jl. Gading Raya No.703, RT.5/RW.8, Pd. Bambu, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13430",0.10724263345983986,0.38740328275674774,1,1,1,1,1,572
+Arlet Laundry Tebet TDR,081234567891,"Jl. Mekar Sari No.87, RT.008/RW.014, Bekasi Jaya, Bekasi Timur, Bekasi, West Java 17112",0.10140298505301903,0.3933602497871851,0,0,0,0,1,573
+V2 LAUNDRY,081234567891,"Jalan Raya Pisangan RT 06 RW 03 #2 Satria Mekar Tambun Utara Bekasi, Satriamekar, Kec. Tambun Utara, Kota Bks, Jawa Barat 17510",0.1001146051019085,0.3921472016206531,0,1,1,1,1,574
+5asec Merdeka Barat,081234567891,"2, Jl. Pangkalan Jati I No.14, RT.2/RW.13, Cipinang Melayu, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13620",0.10671611594207087,0.3912554929279324,0,1,1,1,1,575
+SUPER LAUNDRY,081234567891,"Jalan Kelapa Hibrida Timur Blok RB-8 Nomor 11A, Pegangsaan Dua, Kelapa Gading",0.09680873742203122,0.3904352831028426,1,1,1,1,0,576
+De Cleaner Laundry & Dry clean,081234567891,"Jl. Bendungan Hilir XIII No.41, RT.4/RW.3, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210",0.1115234497999612,0.3900946737541009,0,1,0,0,0,577
+Indo Express Laundry (Mampang VIII),081234567891,"Jl. Gandaria Tengah II No.26, Kramat Pela, Kebayoran Baru, South Jakarta City, Jakarta 12130",0.10017124713080061,0.3919879866639109,0,0,1,1,1,578
+Sunwash laundry ( Dry cleaning & laundry kilo ),081234567891,"Jl. Mangga Besar XIII No.111c, RT.14/RW.2, Mangga Dua Sel., Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10730",0.11001103524256173,0.39369379987481246,1,1,1,1,1,579
+Joy Wash Laundry,081234567891,"5, Jl. Johar No.23, RT.5/RW.3, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",0.09911251169938384,0.3895706667095311,1,1,1,1,1,580
+Mr Clean Laundry Center,081234567891,"Jl. Cikini Raya No.40, RT.12/RW.5, Cikini, Menteng, Central Jakarta City, Jakarta 10330",0.10043156520927143,0.39382229750616826,1,0,1,1,0,581
+Djaya Laundry Gilisampeng,081234567891,"RT.5/RW.8, 8, Bendungan Hilir, Tanah Abang, Central Jakarta City, Jakarta 10210",0.10510489452277005,0.38947140777454514,1,0,0,0,0,582
+Pure Laundry,081234567891,"Jl. Kramat Kwitang I No.34, RT.2/RW.5, Kwitang, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10420",0.10471057189990751,0.38835256258571604,0,0,1,0,0,583
+LaundryKlin Apartemen Gardenia (Laundry Antar Jemput Pejaten),081234567891,"Jl. Duku Raya No.6B, RT.6/RW.5, North Kebayoran Lama, Kebayoran Lama, South Jakarta City, Jakarta 12240",0.09692455498909502,0.3919376178819096,1,0,0,1,1,584
+Laundry Terdekat,081234567891,"Jl. Mardani Raya No.11a, RT.2/RW.5, Johar Baru, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10560",0.11020747269419884,0.38983834625933333,1,0,0,0,1,585
+Flash Coin Laundry - Sunter Hijau,081234567891,"Dibawah Kos Hijau, Jl. Alpukat 3 No.42, RT.2/RW.2, Tj. Duren Utara, Jakarta, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",0.1084446931304981,0.3943262238147325,1,0,0,1,0,586
+Dewasz Laundry & Dry Cleaning,081234567891,"15, Jl. Tebet Barat V No.12, RT.15/RW.4, Tebet Bar., Kec. Tebet, Jakarta, Daerah Khusus Ibukota Jakarta 12810",0.10708130320821896,0.39535382328389446,0,0,0,1,0,587
+"Cuci Karpet Kantor, Gorden Sofa Springbed, Blackout | Health IndoCareService",081234567891,"Patokan Seberang Alfamart, Jl. Lautze No.32A, RT.4/RW.7, Ps. Baru, Kecamatan Sawah Besar, Daerah Khusus Ibukota Jakarta 10710",0.09831518013612905,0.389423805459737,1,1,1,1,1,588
+Londriinaja,081234567891,"Jl. Camar 3 No.27, RT.1/RW.10, West Semper, Cilincing, North Jakarta City, Jakarta 14130",0.09398767483928494,0.39250588840157175,1,1,1,0,1,589
+FILOLI DailyLaundry++ Pegambiran Head Office,081234567891,"Jl. Bri Radio Dalam H No.4A, RT.7/RW.4, Gandaria Utara, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12140",0.10457530060087594,0.3949299337330938,0,1,0,1,0,590
+Lovely laundry,081234567891,"4 no, Jl. Kernolong Dalam 4 No.44 -48, RT.5/RW.8, Kenari, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10430",0.10897383464002086,0.38633270765066907,0,1,0,0,1,591
+SKY88 Laundry,081234567891,"Jl. Karbela Timur No.13, RT.9/RW.4, Kuningan, Karet, Setiabudi, South Jakarta City, Jakarta 12920",0.09850130258569956,0.3902841767568388,1,1,0,1,0,592
+Tifa Laundry Express,081234567891,"Jl. Industri 3 No.32, RT.10/RW.1, North Gunung Sahari, Sawah Besar, Central Jakarta City, Jakarta 10720",0.10793048122922966,0.3914188575854647,1,0,0,0,0,593
+CUCI HELM Wash Master KEMAYORAN,081234567891,"Sudirman Park, Rukan, Jl. K.H. Mas Mansyur No.Kav.35, RT.12/RW.11, Karet Tengsin, Tanah Abang, Central Jakarta City, Jakarta 10250",0.10815569210768416,0.39324248414063057,1,1,1,1,1,594
+Kwiklin Laundry,081234567891,"Jl. Cipinang Jaya Raya No.39, RT.2/RW.6, Cipinang Muara, Jatinegara, East Jakarta City, Jakarta 13410",0.10925921636386404,0.39618495588462643,0,1,0,0,1,595
+JEEVES - Kemang,081234567891,"Jl. Prof. DR. Satrio No.248A, RT.1/RW.6, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12930",0.09900936167871766,0.39136724866299755,0,0,1,0,1,596
+i Wash (Laundromat) by Huebsch - USA,081234567891,"Jl. Camar 3 No.27, RT.1/RW.10, West Semper, Cilincing, North Jakarta City, Jakarta 14130",0.10893809406268473,0.3917423911539437,1,1,1,1,1,597
+Martinizing Dry Cleaning Cempaka Putih,081234567891,"Jl. Raya Klp. Gading Permai No.2, RT.10/RW.2, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",0.10684957759161706,0.3938926993264653,0,1,1,1,0,598
+LONDRENIA LAUNDRY EXPRESS,081234567891,"Jl. H. Nawi Raya No.9C, RT.3/RW.7, Gandaria Utara, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12140",0.1043158873471478,0.3901083152992264,0,1,0,0,0,599
+Antaris Laundry,081234567891,"Kilohana Laundry, Jl. Salemba Tengah Ruko putih pagar putih No.65, RT.9/RW.8, Paseban, Senen, Central Jakarta City, Jakarta 10440",0.10529726026306507,0.39500729941908475,0,1,1,1,0,600
+Easy Wash Coin Laundry,081234567891,"Jalan Cikajang Raya No.46, RT.13/RW.6, Petogogan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12170",0.1057084126261415,0.3946889172033101,1,1,1,1,1,601
+KOIN LAUNDRY KILOAN DAN LAUNDRY SATUAN KEMANG,081234567891,"14, Jl. Labu No.137, RT.1/RW.9, Mangga Besar, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11180",0.09792004317099812,0.3913552288400197,1,1,1,1,1,602
+Freshclin Center,081234567891,"Jl. Serdang Raya No.32, RT.1/RW.10, Cemp. Baru, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10640",0.1010246778281021,0.39299178497566967,1,0,0,1,1,603
+Jaksa Clean Coin Laundry,081234567891,"Jl. Pelepah Indah I No.mor 4, RT.12/RW.18, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",0.10584051703857378,0.3920317731619001,1,0,1,0,1,604
+Kireiwash • Kirei Wash & Beyond - Kelapa Gading,081234567891,"Mess Pa Denma Mabesad, Jl. Raden Abdul Rahman Saleh No.18, RT.9/RW.5, Gambir, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",0.10899555043384535,0.3950713574439213,1,1,1,0,1,605
+One Night Stain Laundry CILANDAK,081234567891,"Jl. Cikini 1 No.69B, RT.16/RW.1, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",0.09596335966493974,0.39027458951708294,1,1,0,0,0,606
+"Laundry Rungkut Surabaya ""Rumah Laundry""",081234567891,"Jl. Pejaten Barat Raya No.40A, RT.2/RW.8, West Pejaten, Pasar Minggu, South Jakarta City, Jakarta 12540",0.002605714293986927,0.6757323160620077,0,0,0,1,0,607
+Ryns Laundry,081234567891,"Jl. Raya Pulo Gebang No.34, RT.14/RW.4, Ujung Menteng, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13960",0.0031159449663874517,0.6748606404075828,1,1,1,1,1,608
+Gowash Satrio Laundry,081234567891,"3, Jl. Tambak No.15a, RT.3/RW.5, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10320",0.10265300043503967,0.391640795031158,0,0,0,0,1,609
+@HOME Laundry Indonesia,081234567891,"Apartemen Menteng Park Tower Diamond, T 13 B, RT.2/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",0.0013620326851651043,0.6738328978452897,1,1,0,1,1,610
+LaundryKlin,081234567891,"Jl. Pertanian Sel. No.30, RT.12/RW.3, Klender, Durensawit, East Jakarta City, Jakarta 13470",0.007357039500305085,0.6747354816159428,1,1,1,1,1,611
+Yuk Laundry Surabaya,081234567891,"Jl. Boulevard Raya, RT.12/RW.18, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",0.00816577185531775,0.6766182533317924,0,1,1,0,0,612
+Natura Laundry & Dry Clean Nginden,081234567891,"Jl. Kartini IV Dalam No.128 C, Kartini, Sawah Besar, Central Jakarta City, Jakarta 10750",0.004529824109308578,0.6750065954008813,0,1,1,1,1,613
+Glory Go Laundry Self Service Petemon Kali,081234567891,"Perum Kelapa Indah Blk B IV, RT.14/RW.1, Pd. Klp., Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450",0.007878851929412067,0.6731957518320568,0,1,1,0,1,614
+Rumah Express Laundry,081234567891,"Jl. H.Muhi VIIIA No.58, RT.7/RW.4, Pd. Pinang, Kec. Kby. Lama, Daerah Khusus Ibukota Jakarta 12310",0.008293714073933534,0.6737745635456793,1,1,1,0,1,615
+DND Laundry & Shoes Treatment,081234567891,"depan Resto Mbah Jingkrak, Jl. Setia Budi Tengah No.20, RT.1/RW.1, Kuningan, Setia Budi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910",0.10716364225980335,0.38995215299593866,0,0,0,1,1,616
+King laundry,081234567891,"Jl. Cempaka Putih Raya No.129b, RT.6/RW.6, Cemp. Putih Tim., Kec. Cemp. Putih, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10510",0.10940263108557968,0.3880293152034975,1,1,1,1,0,617
+Netto Laundromat Wiyung,081234567891,"Jl. Gatot Subroto No.300, Menteng Dalam, Tebet, South Jakarta City, Jakarta 12780",0.0037330354408993127,0.6717502727235827,0,0,1,0,0,618
+Wish Wash,081234567891,"Jalan Kemang I No.10A RT. 010/ 005, RT.10/RW.5, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",0.005968404967704899,0.6727009834838569,1,1,1,1,1,619
+Oxy Laundry Margorejo,081234567891,"Jl. Villa Taman Bandara No.9, Dadap, Kec. Kosambi, Kabupaten Tangerang, Daerah Khusus Ibukota Jakarta 15211",0.003421866211889557,0.6738592746790459,1,0,1,0,0,620
+IPSO Laundromat,081234567891,"Jl. Kp. Utan No.36, RT.15/RW.5, Ragunan, Pasar Minggu, South Jakarta City, Jakarta 12550",0.0063644467575785235,0.672815362592984,1,0,1,1,1,621
+Mama's Laundry Lounge,081234567891,"Jl. Mawar Merah No.37, RT.6/RW.1, Pd. Kopi, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13460",0.10769043122499511,0.3919170601688009,1,1,0,0,1,622
+LAUNDRY TIME,081234567891,"Jl. Perserikatan No.4 A- B, RT.2/RW.8, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",0.0034871945583115904,0.6735064070187748,1,1,1,1,1,623
+Laundry The Daily Wash Coin Menganti,081234567891,"Apt. Bintaro Park View Tower A, Jl. Bintaro Permai No.5, Daerah Khusus Ibukota Jakarta 12320",0.004367589032944985,0.67038659518815,1,1,1,0,1,624
+Tempat Laundry,081234567891,"RPJJ+4R8 VIRGI LAUNDRY, RT.15, Rw. Buaya, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11740",0.010121912466530492,0.6747033333592487,0,1,0,0,0,625
+D2C LAUNDRY & WET CLEAN (www.LaundrySurabaya.com),081234567891,"Jl. Tebet Timur Dalam Raya No.2C, East Tebet, Tebet, South Jakarta City, Jakarta 12820",0.0061322687286053945,0.6699369965715363,1,1,1,1,1,626
+LAUNDRY DEWE JOJORAN,081234567891,"Citra Garden 2 Extension Blok BE2 No. 31, RT.3/RW.20, Pegadungan, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11839",0.007455574914783547,0.6751708663149083,1,1,1,1,1,627
+Classy Laundry & Dryclean Darmo Permai,081234567891,"Jl. Buaran Raya No.4, RT.4/RW.12, Klender, Durensawit, East Jakarta City, Jakarta 13440",0.0066067588236699,0.6718630778082728,0,1,1,0,1,628
+LAUNDRY BERKAH,081234567891,"Jl. Tegal Parang Sel. No.11, RT.5/RW.1, Tegal Parang, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12790",0.00875644144734311,0.6751856049073695,1,1,1,0,1,629
+Griya Express Laundry,081234567891,"Jl. Tanah Abang II No.79, RT.1/RW.4, Cideng, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160",0.007474304786957209,0.6736527912914667,1,1,1,1,0,630
+SAKINNAH LAUNDRY,081234567891,"Jl. RS. Fatmawati Raya No.41, RT.1/RW.5, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",0.008059907360423502,0.6736873721313819,1,1,1,1,1,631
+Lavare Laundry,081234567891,"Jl. Pluit Sakti No.111, RT.4/RW.6, Pluit, Kec. Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14450",0.002824048504396992,0.6754378780967683,1,1,0,1,1,632
+Oxygen Eco Laundry,081234567891,"Jl. Mampang Prapatan VIII No.19A, RT.2/RW.2, Tegal Parang, Mampang Prapatan, South Jakarta City, Jakarta 12790",0.007285286898210064,0.6720178568779644,1,1,1,1,1,633
+Laundry & CO,081234567891,"Jl. Danau Sunter Utara No.17, RT.16/RW.11, Sunter Agung, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14350",0.006407064002959095,0.6754823800604104,1,1,1,1,1,634
+AIN Laundry Dry Clean & Wet Clean,081234567891,"Jl. Ciputat Raya No.18 B, RT.2/RW.9, Kby. Lama Sel., Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240",0.0067061990628910495,0.6726272905215538,1,0,1,1,0,635
+Sa'iki londri,081234567891,"Signature Park Grande, Apartement, Jl. Letjen M.T. Haryono No.kav 20, RT.4/RW.1, Cawang, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13630",0.004411020620593953,0.673278650452434,0,1,1,1,0,636
+Start Laundry Express,081234567891,"9, Jl. Gili Sampeng VI No.43, RW.3, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",0.012114336549924887,0.6754035834431136,0,0,1,0,0,637
+Laundry Time Dharmawangsa,081234567891,"Jl. Meruya Ilir Raya No.36A, RT.4/RW.8, Srengseng, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11630",0.007036550576445699,0.6747291855181929,1,1,0,0,1,638
+SYSAFA LAUNDRY,081234567891,"Jl. Warung Jati Barat No.21b, Jati Padang, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12540",0.0023439484959278944,0.6720807224600458,0,0,0,0,1,639
+Laundry Time,081234567891,"Jl. Mandar III Gg. Musholah No.3, Pondok Karya, Pondok Aren, South Tangerang City, Banten 15225",0.006455200679269968,0.6735588745000269,0,0,0,1,0,640
+ION COIN LAUNDRY - BAVARIAN,081234567891,"Jl. Masda 1 No.12C, RT.5/RW.9, Pejagalan, Kec. Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14450",0.0069646170094020965,0.6716948479842975,1,0,0,1,1,641
+NOLARA LAUNDRY,081234567891,"Jalan Sunter Hijau Raya Blok E2 No.14, Sunter Jaya, Tj. Priok, Kota Jkt, Utara, 14350., RT.4/RW.10, Sunter Jaya, Tanjung Priok, RT.8/RW.10, Sunter Jaya, Kec. Tj. Priok, Jakarta, Daerah Khusus Ibukota Jakarta 14360",0.008974504210330525,0.6732693017012288,1,0,0,1,0,642
+iconic xpress laundry,081234567891,"Jl. Boulevard Raya Blok I4 No.4, RT.11/RW.2, East Kelapa Gading, Kelapa Gading, North Jakarta City, Jakarta 14240",0.008227480902768924,0.6714359448131768,1,1,1,1,1,643
+GRESS LAUNDRY SURABAYA,081234567891,"Jl. Gading Raya No.703, RT.5/RW.8, Pd. Bambu, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13430",0.0,0.6746492918535596,0,0,0,0,1,644
+LAUNDRY ALL IN ONE-UR ONE STOP LAUNDRY SERVICES,081234567891,"Jl. Haji Nurisan No 22 Rt 02 / Rw 011 No 17E, RT.2/RW.11, Pd. Pinang, Kec. Kby. Lama, Jakarta, Daerah Khusus Ibukota Jakarta 12310",0.0039098381956201855,0.6714211108252952,1,1,1,1,1,645
+Laundry Time Kertajaya,081234567891,"Gg. Kancil I No.23, RT.5/RW.2, Lenteng Agung, Jagakarsa, South Jakarta City, Jakarta 12610",0.006892954889781477,0.6746605485131738,1,1,0,0,0,646
+Di Laundry,081234567891,"Jl. Pegambiran No.31, RT.9/RW.8, Rawamangun, Pulo Gadung, East Jakarta City, Jakarta 13220",0.008361756894583516,0.6737876327182821,1,1,1,1,1,647
+ONLINE LAUNDRY,081234567891,"Jalan Green Lake City Rukan Amerika Latin Colombus A 21, RT.002/RW.009 Petir, Kec. Cipondoh, Banten, Daerah Khusus Ibukota Jakarta, Kota Tangerang, Banten 15147",0.007070029091925112,0.6730100646461379,1,1,1,1,1,648
+Professional Laundry Surabaya - Marckalaundry,081234567891,"Perumahan Daan Mogot baru jl Gilimanuk blok JD no 43 A, RT.8/RW.12, Kalideres, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",0.005080590930181428,0.6749173529850445,1,1,1,1,1,649
+INDOCLEAN SURABAYA,081234567891,"Jl. Kelapa Gading No.2a, RT.8/RW.2, Gandaria Sel., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12420",0.005657688151066598,0.6735056915531219,1,0,1,0,1,650
+The Daily Wash Nginden,081234567891,"Jl. Pembangunan III No.2B, RT.13/RW.1, Petojo Utara, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10130",0.004946495903315418,0.6755113802682304,1,1,1,1,1,651
+TheDailyWash Ngagel Surabaya,081234567891,"Jl. Bekasi Timur Raya No.5A, RT.5/RW.8, Cipinang, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13240",0.005565667474735414,0.6747693946879156,1,1,1,1,1,652
+Laundry The Daily Wash Laundry Keputih,081234567891,"Jl. E Raya No.77, Kebon Kosong, Kemayoran, Central Jakarta City, Jakarta 10630",0.005819380332584556,0.6768316528873539,0,1,0,0,0,653
+Loundry And Dry Cleaning,081234567891,"Apartemen Gading Greenhill lt.2 kios#8, RT.10/RW.3, Pegangsaan Dua, Kelapa Gading, North Jakarta City, Jakarta 14250",0.00875644144734311,0.6751856049073695,1,0,1,0,1,654
+CLEAN LAUNDRY,081234567891,"Gedung Mitra Hadiprana, Parking Entry, Jl. Kemang Raya Jl. Kemang IV No.30, Bangka, Mampang Prapatan, South Jakarta City, Jakarta 12730",0.006316310081267651,0.6715987847958971,0,1,1,1,1,655
+Daily Wash,081234567891,"Jl. Bintaro Utama 3A, Pondok Karya, Pondok Aren, South Tangerang City, Banten 15224",0.00902046930725886,0.6752614919643429,1,1,1,1,1,656
+Laundry Arya,081234567891,"Jl. Mangga Besar IV No.7a, RT.5/RW.1, Taman Sari, West Jakarta City, Jakarta 11150",0.009814995913811408,0.674706052128732,1,0,1,1,1,657
+Yuli laundry services,081234567891,"Jl. Cempaka Putih Tengah XVII No.F33, Cemp. Putih Tim., Kec. Cemp. Putih, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10510",0.008163509793461032,0.6738732024104328,0,0,1,0,1,658
+"Laundry satuan Dan Kiloan ""SONIA""",081234567891,"Ruko Arana IX 3 No. 19, Setia Asih, Kec. Tarumajaya, Kabupaten Bekasi, Jawa Barat 17215",0.010156386289226771,0.6731773405159087,0,0,0,1,0,659
+The Daily Wash Dharmawangsa,081234567891,"QQXQ+5G8 LONDRENIA LAUNDRY EXPRESS, Jl. Kemanggisan Pulo, Palmerah, West Jakarta City, Jakarta 11480",0.007411328984866183,0.6747339075915058,1,0,1,1,1,660
+Sintia Laundry & Dry cleaning,081234567891,"No Jl. Pulo Asem Utara Raya No.57, RT.11/RW.1, Jati, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",0.011740010553875746,0.6739236188901438,1,0,0,1,1,661
+Laundry Murah,081234567891,"Jl. Pondasi No.41 C, RT.1/RW.2, Kayu Putih, Pulo Gadung, East Jakarta City, Jakarta 13210",0.008145051368710243,0.6759316924907628,1,1,1,0,1,662
+LONDREE LAUNDRY,081234567891,"Jl. Paseban Raya No.68, RT.17/RW.3, Paseban, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10440",0.002979768842613306,0.6761163303270576,1,1,1,0,0,663
+Laundry 35,081234567891,"Jl. Kemang Raya No.130d, RT.3/RW.2, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",0.004219469222567329,0.6746813447148341,0,1,0,0,0,664
+Noda Laundry Medan (Wet Cleaning & Dry Cleaning),081234567891,"Deretan BCA, sblh Indomaret, 2, Jl. Tebet Barat IX ps. Tb Barat No.34, Tebet Bar., Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12810",0.987306937544653,0.003395266107194317,0,1,0,0,0,665
+LaundryLab.,081234567891,,0.006279936126611707,0.6687366836936359,0,1,0,0,0,666
+Nusantara Wash Coin Laundry,081234567891,"Jl. Jaksa No.20, RT.13/RW.2, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",0.9901881709727878,0.003787198192141794,1,0,1,1,1,667
+Everest Laundry & Dry Clean,081234567891,"Ruko French Walk G/26, Mall of Indonesia, RT.18, RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",0.9896140596735536,0.002131849158662824,0,1,1,1,1,668
+Verona Dry Clean Laundry,081234567891,"Jl. Taman Cilandak Raya No.40, RT.12/RW.4, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",0.9897482451828938,0.0027017414004717466,1,1,1,1,0,669
+Laundry Express Hijrah Laundry Medan,081234567891,"Mall Golden Truly, Jl. Gn. Sahari No.59, RT.2/RW.1, Gn. Sahari Sel., Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10610",0.9911147115092982,0.002559316037729964,1,1,1,0,0,670
+Davindo Laundry & Dry Clean,081234567891,"Jl. Rungkut Asri XV No.29, Kali Rungkut, Rungkut, Surabaya, East Java 60293",0.9899043274510072,0.0028212718623041866,0,1,1,1,0,671
+517 Laundry,081234567891,"Jl. Raya Tenggilis No.132, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Surabaya, Jawa Timur 60293",0.011577956442460624,0.675358842990919,1,0,0,0,0,672
+Garuda Laundry Services,081234567891,"Jl. Prof. DR. Satrio Gg. Amsar No.62, RT.2/RW.6, Kuningan, Karet Kuningan, Setiabudi, South Jakarta City, Jakarta 12940",0.9864071798205261,0.003918366895270253,0,0,1,0,0,673
+Mr. Clean Coin Laundry,081234567891,"Jl. Caman Raya No.23, RT.008/RW.001, Jatibening, Kec. Pd. Gede, Kota Bks, Jawa Barat 17412",0.9931118406813546,0.0027220129273199944,0,0,0,1,0,674
+GO Laundry kapten muslim. Laundry Kiloan Siap 1 Hari&Express Siap 6 Jam,081234567891,"No Jl. Siwalankerto Sel., Siwalankerto, Kec. Wonocolo, Surabaya, Jawa Timur 60234",0.9916256660414929,0.0016977522978729453,1,0,1,1,1,675
+Megoria Laundry & Dry Cleaning,081234567891,"Jl. Dharmawangsa No.88, Airlangga, Kec. Gubeng, Surabaya, Jawa Timur 60286",0.9897811808035277,0.002862721172493643,1,0,0,1,1,676
+MAB Laundry,081234567891,"Jl. Raya Mulyosari No.156, Kalisari, Mulyorejo, Surabaya, East Java 60112",0.9872828692064974,0.0019936211944200366,1,0,1,0,1,677
+Stop Wash,081234567891,"Jl. Raya Nginden No.86 A, Baratajaya, Gubeng, Surabaya, East Java 60284",0.989741911409695,0.00281087376147493,1,1,1,1,0,678
+DeLaundress Dryclean & Laundry,081234567891,"Jl. Petemon Kali No.91A, RT.6/RW.2, Sawahan, Surabaya, East Java 60251",0.9896165027003588,0.003054799851583745,0,1,1,1,1,679
+Laundry Medan,081234567891,"masuk dari gang smp muhammadiyah 3, Jl. Plemahan VII Belakang No.6, Kedungdoro, Kec. Tegalsari, Surabaya, Jawa Timur 60261",0.9890555113598936,0.0,0,0,0,1,0,680
+TOP LAUNDRY MEDAN,081234567891,"Jl. Alpukat 3 No.31, RT.2/RW.2, Tj. Duren Utara, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",0.9883579819657569,0.004756272570854314,1,0,0,1,0,681
+TheWashPort Laundry Medan,081234567891,"Jl. Dolar No.18, RT.8/RW.14, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11720",0.990117504160384,0.003923947527367133,0,0,1,0,0,682
+DUTA LAUNDRY,081234567891,"Jl. Raya Wiyung No.119, Wiyung, Surabaya, East Java 60228",0.9999999999999999,0.0022324913272440128,0,1,1,0,1,683
+Megoria Laundry,081234567891,"Jl. Raya Dukuh Kupang No.222-D, Dukuh Pakis, Dukuhpakis, Surabaya, East Java 60225",0.990627825315259,0.0027308847014220206,1,0,1,1,1,684
+Profesional Laundry & Dry Cleaning,081234567891,"Jl. Margorejo Indah No.28f, Margorejo, Kec. Wonocolo, Surabaya, Jawa Timur 60237",0.01118318140722685,0.6741104985188189,1,1,1,1,1,685
+Verona Laundry,081234567891,"Jl. Raya Dukuh Kupang No.93-B, Pakis, Sawahan, Surabaya, East Java 60225",0.9918988326313098,0.0032192615564516913,1,0,0,0,0,686
+Sesa Laundromat / Coin Laundry Krakatau,081234567891,"Jl. Pecenongan, RT.1/RW.4, Kb. Klp., Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10120",0.9930957348009348,0.0035657377235507326,1,1,1,1,1,687
+Best Laundry & Dry Clean,081234567891,"Jl. Ketintang Baru III No.52 B, Ketintang, Gayungan, Surabaya, East Java 60231",0.992169375229373,0.0014583574902360397,1,1,1,1,1,688
+EL LAUNDRY,081234567891,"Jl. Raya Menganti Jl. Raya Lidah Wetan No.10, Wiyung, Surabaya, East Java 60123",0.9996092061936338,0.003910687563923432,1,1,1,0,1,689
+Medan Laundry,081234567891,"Jl. Donorejo Gg. III Jl. Kapasan No.11, RT.003/RW.01, Kapasan, Kec. Simokerto, Surabaya, Jawa Timur 60141",0.990114789686156,0.001113789231545148,1,1,0,0,0,690
+Jihan Laundry,081234567891,"Ruko Taman Gapura, GWalk Citraland, Lontar, Sambikerep, Surabaya, East Java 60216",0.9897139523251461,0.0028135925309582532,1,1,1,0,1,691
+Laundry Medan ( Brilliant Laundry),081234567891,"Jl. Jojoran I No.50E, Mojo, Gubeng, Surabaya, East Java 60285",0.9921878336541237,0.0029473369104389135,0,0,0,1,1,692
+SASAI LAUNDRYMART MEDAN,081234567891,"Jl. Raya Darmo Permai I No.64, Pradahkalikendal, Dukuhpakis, Surabaya, East Java 60226",0.985440646030389,0.002534847112382721,1,1,0,0,0,693
+Castell Laundry,081234567891,"Jl. Pacar Kembang V No.31G, Pacar Kembang, Kec. Tambaksari, Surabaya, Jawa Timur 60132",0.987184333792019,0.0037363524330382702,1,1,1,1,1,694
+Ceria Coin Laundromat,081234567891,"Jl. Wonorejo IV No.34, Wonorejo, Kec. Tegalsari, Surabaya, Jawa Timur 60263",0.9915043290434988,0.0016897867802647681,0,0,1,0,0,695
+One1 Laundry,081234567891,"Jl. Kedung Klinter VII No.9, Kedungdoro, Kec. Tegalsari, Surabaya, Jawa Timur 60261",0.9935598194114583,0.0039228504800323805,1,0,0,0,0,696
+Lollipop Laundromat Card Laundry,081234567891,"Jl. Rungkut Asri Utara I No.7, Kali Rungkut, Rungkut, Surabaya, East Java 60293",0.9923563120212118,0.0033721804154440704,1,0,0,0,0,697
+THE laundry room,081234567891,"Jl. Kupang Jaya No.143, Sonokwijenan, Sukomanunggal, Surabaya, East Java 60189",0.9935632577454806,0.0036095719192514863,1,0,0,0,0,698
+Waz8 Laundry & Dry Clean,081234567891,"Jl. Manyar Tirtoyoso No.37, RT.004/RW.07, Klampis Ngasem, Sukolilo, Surabaya, East Java 60117",0.9913054485650563,0.000587731185435203,1,1,1,1,1,699
+L-washlaundry,081234567891,"Dukuh Kupang Timur XX No.72c, Dukuh Kupang, Kec. Dukuhpakis, Surabaya, Jawa Timur 60225",0.992158245885038,0.0016666056930940698,0,0,1,1,1,700
+Laundry Express,081234567891,"Jl. Pulo Wonokromo No.286, Wonokromo, Surabaya, East Java 60243",0.9883798787245299,0.0042378938560911905,0,1,0,0,1,701
+Jess Laundry & Dry Clean,081234567891,"Jl. Kedinding Lor No.89, Tanah Kali Kedinding, Kenjeran, Surabaya, East Java 60129",0.9909362800700405,0.0026628677666353795,1,1,1,1,0,702
+Mega Laundry II,081234567891,"Jl. Dharmawangsa No.77, Airlangga, Kec. Gubeng, Surabaya, Jawa Timur 60282",0.9861669488513429,0.0022970263291837156,1,0,1,1,1,703
+Homie Laundry & Dry Cleaning - Layanan Antar Jemput Medan,081234567891,"Jl. Griya Kebraon Tengah Blok O 14b, Surabaya, Jawa Timur 60222",0.985873876117187,0.0036022264718758024,0,1,1,1,0,704
+Doctor Laundry Medan,081234567891,"Ruko Prapanca, Jl. Prapanca, Darmo, Kec. Wonokromo, Surabaya, Jawa Timur 60241",0.9929678830647932,0.002633342884004186,0,0,0,1,1,705
+Laundry Point,081234567891,"Jl. Raya Darmo Permai III No.Blok A, Sukomanunggal, Kec. Sukomanunggal, Surabaya, Jawa Timur 60226",0.9880384883491146,0.004411131939640711,1,1,1,0,0,706
+Super Wash Laundry Dry Cleaning,081234567891,"Jl. Kalibutuh No.17, Tembok Dukuh, Bubutan, Surabaya, East Java 60173",0.9892892275909293,0.00207733067587057,1,0,0,0,0,707
+City Laundry,081234567891,"PMPP+CRC iconic xpress laundry, Jl. Darmo Indah Tim., Tandes, Surabaya, East Java 60187",0.9907592058678969,0.0037324889185104126,1,1,0,1,1,708
+WS LAUNDRY,081234567891,"Perumahan Wisma, Jl. Kota Baru No.21, Tropodo Kulon, Tropodo, Kec. Waru, Kabupaten Sidoarjo, Jawa Timur 61256",0.9907817360039898,0.004566769568116413,1,0,1,1,1,709
+Hippo Laundromat,081234567891,"Jl. Raya Menganti Karangan No.21, Babatan, Wiyung, Surabaya, East Java 60227",0.9881568394254578,0.0007799529576564268,1,0,0,0,1,710
+BAG Laundry & Dry Cleaning,081234567891,"Kertajaya IV Raya No.17, Kertajaya, Kec. Gubeng, Surabaya, Jawa Timur 60282",0.9859379377089692,0.0018898309769630472,0,1,1,1,1,711
+Quality Laundry,081234567891,"Jl. Plemahan Gg. V No.5a, Kedungdoro, Tegalsari, Surabaya, East Java 60261",0.9917340640456667,0.0016828229145708917,1,1,1,1,1,712
+Se3ka Laundry,081234567891,"Jl. Putat Jaya Gg. Lebar A No.41b, Putat Jaya, Kec. Sawahan, Surabaya, Jawa Timur 60255",0.9934848094402897,0.004192104054272505,0,1,0,1,0,713
+Star Laundry Services,081234567891,"Jl. Barata Jaya No.59, Baratajaya, Gubeng, Surabaya, East Java 60284",0.9894625015291536,0.0024736032524490525,1,0,1,0,0,714
+LaundryQAN,081234567891,"Jl. Cipunegara No.55, Darmo, Wonokromo, Surabaya, East Java 60241",0.9889736247206804,0.004645756976255022,1,1,0,0,1,715
+The Clean Laundry,081234567891,"Jl. Genteng Bandar Gg. I No.33, Genteng, Surabaya, East Java 60275",0.9918587488952089,0.0025626071797359984,0,1,0,0,0,716
+Beach Laundry Karya,081234567891,"Jl. Nginden Semolo No.106 B, Nginden Jangkungan, Kec. Sukolilo, Surabaya, Jawa Timur 60118",0.992097622627278,0.0026395435863344474,1,0,0,0,0,717
+Wash and Dry premium laundry,081234567891,"Jl. Ngagel Jaya Selatan No.107B, RT.004/RW.01, Pucang Sewu, Kec. Gubeng, Surabaya, Jawa Timur 60283",0.9951105985379478,0.002890862821528728,1,0,0,1,0,718
+HOME LAUNDRY,081234567891,"Jl. Keputih Tegal No.9A, Keputih, Sukolilo, Surabaya, East Java 60111",0.9920726494643799,0.004220961168959647,1,1,0,1,1,719
+Harvest Laundry,081234567891,"Jl. Pacar Kembang V No.31 G, Pacar Kembang, Kec. Tambaksari, Surabaya, Jawa Timur 60132",0.985702411828448,0.0020173269564036644,1,0,0,1,0,720
+Ladies loundry,081234567891,"PM7R+W5J CLEAN LAUNDRY, Pradahkalikendal, Kec. Dukuhpakis, Surabaya, Jawa Timur",0.9895424880364071,0.005731356861055303,0,1,1,1,1,721
+Claryssa Laundry,081234567891,"Jl. Bronggalan II No.27, Ploso, Kec. Tambaksari, Surabaya, Jawa Timur 60132",0.9911373321278654,0.0016145674912344532,1,0,0,0,0,722
+Cleanholic Laundry,081234567891,"Blk. N - O Jl. Tambak Madu II No.61, Tambakrejo, Kec. Simokerto, Surabaya, Jawa Timur 60153",0.9917908870395074,0.0046282996143114374,1,0,1,1,0,723
+Super Wash Laundry And Dry Clean,081234567891,"Jl. Kaliasin X No.19a, Kedungdoro, Tegalsari, Surabaya, East Java 60261",0.9909897552123332,0.003780138931028354,0,1,0,0,0,724
+Best Laundry,081234567891,"Dupak Baru Gg. I No.18, Jepara, Bubutan, Surabaya, East Java 60171",0.9906380498348513,0.002650657152817537,1,1,1,1,1,725
+DeLaundress Dry Cleaning & Laundry,081234567891,"Jl. Dharmawangsa No.82, Airlangga, Kec. Gubeng, Surabaya, Jawa Timur 60286",0.9892512249517365,0.0007937852936228396,0,0,0,1,0,726
+FAMILY LOUNDRY / DRY CLEAN,081234567891,"No., Jl. Benteng No.17, Nyamplungan, Kec. Pabean Cantikan, Surabaya, Jawa Timur 60152",0.9975917184648669,0.003252983837583656,0,1,1,1,0,727
+laundry medan,081234567891,"PQPJ+2F9 Laundry Murah, Jl. Dharma Husada Indah Utara XIV, Mulyorejo, Kec. Mulyorejo, Surabaya, Jawa Timur 60115",0.9932671086071996,0.0028324331264979463,1,1,0,0,1,728
+Do Wash Laundry Medan,081234567891,"Jl. Raya Pandugo No.82, Penjaringan Sari, Kec. Rungkut, Surabaya, Jawa Timur 60293",0.9927253900337534,0.003579951641198953,1,1,1,1,0,729
+Z-Laundry,081234567891,"Gg. III No.35, Sidosermo, Kec. Wonocolo, Surabaya, Jawa Timur 60239",0.9879549730253646,0.004121845327105689,1,0,1,0,1,730
+Laundry Lab,081234567891,"Jl. Padang Golf No.10, Suka Damai, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20157",0.9888925524237357,0.004182421419095306,0,1,0,0,0,731
+Tiwa Laundry,081234567891,"Samping Universitas Ciputra, Waterfront Boulevard, KOZKO BC-11, Made, Surabaya, Jawa Timur 60219",0.9875160425426877,0.0018254867658642482,1,0,0,0,1,732
+Salsaniy Laundry,081234567891,"Jl Letjen Haryono MT No.186 -N, Pusat Ps., Kec. Medan Kota, Kota Medan, Sumatera Utara 2021",0.9911148924742468,0.0038092345342670697,0,1,1,0,0,733
+Black & White LAUNDRY SERVICES,081234567891,"Jl. Sei Bahbolon No.50, Babura, Medan Baru, Medan City, North Sumatra 20152",0.9852764203395914,0.0017934339045915237,1,1,1,1,1,734
+Laundry Terona,081234567891,"HMM8+CMP Verona Dry Clean Laundry, Jl. S. Parman, Petisah Hulu, Medan Baru, Medan City, North Sumatra 20151",0.9885639200771923,0.004339776165139142,0,0,1,0,0,735
+Laundry felixta,081234567891,"Jl. Sekip No.66, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118",0.9880605660728361,0.004177794741202945,0,1,0,0,1,736
+Bejava Professional Laundry & Dry Clean,081234567891,"HMP9+4MH Davindo Laundry & Dry Clean, Jl. Taruma, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112",0.9931576248133345,0.0034057119057342433,1,1,1,0,1,737
+Laundry dry & clean,081234567891,"Jl. Tanah Merah V No.17, Tanah Kali Kedinding, Kec. Kenjeran, Surabaya, Jawa Timur 60129",0.9848079925703029,0.001294181971629449,1,1,1,1,1,738
+Michelle Laundry & Dry Clean,081234567891,"Jl. Alfalah No.35, Titi Kuning, Medan Johor, Medan City, North Sumatra 20217",0.9926247735223668,0.004176983880129548,0,0,1,0,0,739
+Laundry & Dry Clean,081234567891,"Jl. Karya Cilincing No.33A, Karang Berombak, Medan Barat, Medan City, North Sumatra 20238",0.9915260448373232,0.003457845503014312,1,1,1,0,1,740
