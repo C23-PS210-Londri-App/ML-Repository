@@ -8,8 +8,9 @@ import tensorflow as tf
 import pickle
 from keras import load_model
 
-model_path = "your_model_path/model_name.h5"
-model = load_model(model_path)
+model_path = "your_model_path/model_name.tflite"
+tflite_interpreter = tf.lite.Interpret(model_path=model_path)
+tflite_interpreter.allocate_tensors()
 
 with open('scaler_path/name_of_the_scaler.pkl', 'rb') as file:
     loaded_scaler = pickle.load(file)
@@ -25,10 +26,14 @@ new_data_point[:2] = loaded_scaler.transform(new_data_point[:2].reshape(1,-1))
 
 #Reshape it before predicting
 new_data_point = new_data_point.reshape(1, -1)
+
+#Set the input tensor
+tflite_interpreter.set_tensor(tflite_interpreter.get_input_details()[0]['index'], new_data_point)
 ```
 ### Making Prediction
 ```python
-predictions = loaded_model.predict(new_data_point)
+tflite_interpreter.invoke()
+predictions = tflite_interpreter.get_tensor(tflite_interpreter.get_output_details()[0]['index'])
 
 #Get the probabilities of class predictions
 class_probabilities = predictions[0]
